@@ -1,8 +1,3 @@
----
-title: "What is the future of The Simpsons video games?"
-layout: post
----
-
 
 Over its 28 year history, spanning 29 seasons and 600+ episodes, The Simpsons has racked up its fair share of video games. Not content with its breakout success on the Fox network, the show entered into the console world just 2 years after its debut with _Bart vs. the Space Mutants_ in 1991. Business execs were keen to ride the wave of Bartmania sweeping across the nation and fans were equally as eager to play as the “underachiever and proud of it.” It’s no wonder then why _6_ more Bart-centric games were released between 1991 and 1992 alone, all to varying degrees of success. Quantity over quality was the driving factor but as the decade progressed, the video games broadened away from Bart’s adventurous exploits and into new territory.
 
@@ -12,7 +7,7 @@ With the television show proving to remain ever as popular into a new millennium
 
 In the span of 16 years, a whopping 23 video games had been created under The Simpsons license by a variety of developers. 2D platform, 3D platform, puzzle, wrestling, racing – you certainly can’t fault them for trying out a range of genres, even if the majority of them were of relatively poor quality. However, in the 10 years that have passed since 2007 fans of The Simpsons have only been treated to a further 4 video games. All of them were mobile games and the most recent was released in 2012. It’s been 5 years now with no signs of a new game so what gives?
 
-##The Simpsons game that’s not a game
+## The Simpsons game that’s not a game
 
 _The Simpsons: Tapped Out _has been the newest offering for gamers for quite some time now. The main issue being that _The Simpsons: Tapped Out_ isn’t a regular video game – it’s a freemium game, which in effect means it’s barely a game at all. Freemium (or free-to-play) games work on the concept of giving the foundation of a game to the player with the ability to unlock more of it as they play. Except the term ‘play’ is used very loosely since it most often involves simply waiting for a particular task to be completed.
 
@@ -26,7 +21,7 @@ The final nail in the coffin for me was the realisation that unless I spent an a
 
 Perhaps to some people the pressure of those timed events _is_ fun. Perhaps to some people the shallow citizen management system is enough to be considered game play. Perhaps I’m the one who finds it difficult to separate the genres of freemium games and regular console-based gaming. These sorts of apps aren’t for engrossing yourself into during long sittings – they’re 5 minute checkups sporadically throughout the day. A quick tap and it is back to work or time to catch the train or ready to take dinner out of the oven. From that description, it all sounds rather fine and dandy – if gamers like that sort of thing then so be it, what’s the problem?
 
-##I call him Gamblor!
+## I call him Gamblor!
 
 The computer game industry exists to create money, let’s get that out of the way. As much as video games can be considered art, the likes of Electronic Arts, Activision and Nintendo aren’t making them purely out of the kindness of their hearts. With AAA games now costing more than ever to create, executive boards and investors want to see their rising expenditure reflected with rising profits. The landscape of gaming has changed enormously and for these large companies, simply selling an individual copy isn’t enough. Season passes, downloadable content, pre-order bonuses, microtransactions and loot boxes are slowly but surely becoming the industry norm. Anywhere they can make an easy profit, they’ll try. In fact, there’s an entire industry built around easy profiteering, one that is spreading further and further into video games...
 
@@ -42,7 +37,7 @@ There’s an argument to be made that as tempting as developers make purchasing 
 
 Simply put, due to _The Simpsons: Tapped Out_ EA have no incentive to create a new Simpsons video game. With small development and running costs, decent profits and a dependable audience invested in creating their own Springfield towns, why bother wasting money creating something bigger? More to the point, is there even a place for a brand new game based on The Simpsons in this day and age?
 
-##I used to be with ‘it’, then they changed what ‘it’ was...
+## I used to be with ‘it’, then they changed what ‘it’ was...
 
 Perhaps the most obvious reason for the lack of video games based on The Simpsons is one that most fans have known for some time now – the animated sitcom is well past its prime. Without diving into the _mammoth_ topic of quite why it isn’t as good as it used to be, why it’s changed so much over 28 years and why it’ll never be the same again, The Simpsons certainly isn’t as popular as it was even 10 years ago, never mind 20. Current episodes typically receive around 4 million viewers, nothing compared to during the height of its success in the early 1990s where it would regularly reach over 20 million. It’s only logical that as the show’s popularity has decreased, so has the reasoning to continue creating video games based on it.
 
