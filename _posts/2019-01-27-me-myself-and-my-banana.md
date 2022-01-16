@@ -85,6 +85,10 @@ Ultimately, I scrapped the individual pixels of colour in the banana and replace
 
 To counteract the sharpness of the shadows I tried adding a small amount of background paper texture and even played around with different fonts such as _Lemon/Milk_ and _Plump_. For consistency’s sake, the Print Char 21 font remained but for the most part it all looked a bit more crisp and clean.
 
+|  |  |  |
+|---|---|---|
+| [![Lemon/Milk font]({{site.url}}/assets/images/2019/01/21135-test-channel-art-2.jpg)]({{site.url}}/assets/images/2019/01/21135-test-channel-art-2.jpg) | [![Plump font]({{site.url}}/assets/images/2019/01/31183-test-channel-art.jpg)]({{site.url}}/assets/images/2019/01/31183-test-channel-art.jpg) | [![Final design]({{site.url}}/assets/images/2019/01/dfcab-test-channel-art-3.jpg)]({{site.url}}/assets/images/2019/01/dfcab-test-channel-art-3.jpg) |
+
 ## New year, new me
 
 A similar situation caused the most recent design change. Towards the end of 2018, with no Let’s Plays going on and a whole lot of time off from work thanks to the Christmas break, I decided to rebrand once again. I wasn’t necessarily unhappy with the look at the time but there was still that little voice in the back of my head thinking it could represent me a bit better.
