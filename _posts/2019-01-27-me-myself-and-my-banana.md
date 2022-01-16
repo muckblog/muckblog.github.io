@@ -30,7 +30,7 @@ I had the name, I had the logo. Great! But wait, what about the rest of it? Intr
 ![My old YouTube channel]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 <figure>
-  <img src="{{site.url}}/assets/2019/01/29c09-vlcsnap-2019-01-26-14h27m50s424.png" alt="My old YouTube channel"/>
+  <img src="{{site.url}}/assets/images/2019/01/29c09-vlcsnap-2019-01-26-14h27m50s424.png" alt="My old YouTube channel"/>
   <figcaption>Here’s a dose of YouTube nostalgia for ya</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ For some reason I decided to pick a dot pattern as my main background and let me
 But it gets worse. Not long afterwards YouTube changed its design (the first of many) and took away the ability to customise your background. Instead we were left with only a banner to modify and this is the design I eventually whipped up…
 
 <figure>
-  <img src="{{site.url}}/assets/2019/01/868c1-youtube_banner-min.png" alt="My eyes! The goggles do nothing!"/>
+  <img src="{{site.url}}/assets/images/2019/01/868c1-youtube_banner-min.png" alt="My eyes! The goggles do nothing!"/>
   <figcaption>My eyes! The goggles do nothing!</figcaption>
 </figure>
 
@@ -52,10 +52,6 @@ Oh look, a font too. To match the pixelated banana, I chose a pixelated font. It
 I kept using that font up until only very recently when I rebranded the channel in January 2019. About time, eh? Looking back, I should have changed it sooner – not only is it quite sterile and dull, but it’s also quite limiting in its use. And perhaps most importantly, I don’t really think it reflects **me**. Sure it kinda reminds you of retro video games but the font style is quite aggressive and no fun at all.
 
 Sometimes I wouldn’t even bother with a background! Take a look at some of these masterpieces I created between 2012 and 2017. Talk about laziness…
-
-|[Minecon]({{ site.baseurl }}/images/2019/01/72ba3-minecon-min.jpg)|[Q&A]({{ site.baseurl }}/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png)|[MrMuckluckable]({{ site.baseurl }}/images/2019/01/92a45-update-bg-hd-copy-min.png)|
-| --- | --- | --- |
-||||
 
 ## I-dent see an issue
 
