@@ -11,6 +11,8 @@ So the plan to write blog posts semi-regularly fell through completely. Clearly 
 
 To kick things off I thought I’d write up a bit about my thought process when it came to the new look of the channel – the ‘rebrand’ so to speak. And with that comes a look back at my older designs too, and the realisation of just how horrible some of them were. But before all that, maybe it’s time I quickly addressed a question I get quite often…
 
+<!-- readmore -->
+
 ## So, er, what’s the deal with the banana?
 
 People ask me why my logo is a pixelated banana rather frequently believe it or not. It’s a fair question I suppose – I mean what does a banana have to do with a YouTube video game channel anyway?
@@ -27,12 +29,7 @@ Not long after creating that blog was when I took my first step into the world o
 
 I had the name, I had the logo. Great! But wait, what about the rest of it? Intros and outros, backgrounds and fonts, all that stuff mattered to me just as much as the actual video content. I’ve always loved art and design throughout my childhood and into school, from Sats to GCSEs to A-Levels. (Speaking of which, I may show off some old pieces of art from school in future blog posts. Artchives!) However, looking at my first foray into design for the channel, you’d perhaps think otherwise.
 
-![My old YouTube channel]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
-
-<figure>
-  <img src="{{site.url}}/assets/images/2019/01/29c09-vlcsnap-2019-01-26-14h27m50s424.png" alt="My old YouTube channel"/>
-  <figcaption>Here’s a dose of YouTube nostalgia for ya</figcaption>
-</figure>
+![My old YouTube channel]({{site.url}}/assets/images/2019/01/29c09-vlcsnap-2019-01-26-14h27m50s424.png "My old YouTube channel")
 
 This is the earliest snapshot of my channel I have unfortunately. It’s actually taken from my [One Year Anniversary Special video](https://www.youtube.com/watch?v=zSrl3oxwoP4), hence the terrible quality but it’ll just have to do. One thing that’s obvious from the get-go is that blue has always been my main brand colour. It’s probably my favourite colour (ok, maybe turquoise but close enough) and throughout all the designs it’s stuck around. Am I too old to have a favourite colour? Is that just a kid’s thing? Who knows.
 
@@ -40,10 +37,7 @@ For some reason I decided to pick a dot pattern as my main background and let me
 
 But it gets worse. Not long afterwards YouTube changed its design (the first of many) and took away the ability to customise your background. Instead we were left with only a banner to modify and this is the design I eventually whipped up…
 
-<figure>
-  <img src="{{site.url}}/assets/images/2019/01/868c1-youtube_banner-min.png" alt="My eyes! The goggles do nothing!"/>
-  <figcaption>My eyes! The goggles do nothing!</figcaption>
-</figure>
+![My eyes! The goggles do nothing]({{site.url}}/assets/images/2019/01/868c1-youtube_banner-min.png "My eyes! The goggles do nothing")
 
 How to make that dull dot pattern worse? Stick a nasty gradient on top of it. Gradients in design aren’t naturally bad but, more often than not, they look terrible. In my opinion you’ve got to be subtle with them and that white gradient is anything but.
 
@@ -65,7 +59,8 @@ Except not quite. The outro couldn’t be silent after all, so the next issue wa
 
 Kevin MacLeod, or [Incompetech.com](https://incompetech.com/music/royalty-free/music.html), is probably one of the most prolific music makers heard on YouTube because of his vast royalty free music collection. Skim through some of his tracks and you’re bound to recognise something from _[Sneaky Snitch](https://www.youtube.com/watch?v=-SjOkb3kVgI)_ to _[Spazzmatica Polka](https://www.youtube.com/watch?v=zqilNNhMJPQ)_. I eventually opted for _[Hyperfun](https://www.youtube.com/watch?v=mrIeuLfdt8c)_, a bouncy, bright and humorous track by his own definition and something I thought suited an outro well.
 
-Keep it simple stupid
+## Keep it simple stupid
+
 My channel design stayed pretty much the same until around midway through 2017. It was at that point I was about to start two new Let’s Plays (Escape from Monkey Island and a replay of Destroy All Humans! 2). For a while I’d been eager to modernise my branding and that seemed like the most logical point to do so.
 
 But after 6 years it felt as if it has been too long to drop everything. By that point my channel identity was pretty much synonymous with that silly pixelated banana, or at least in my head it was. And at any rate I wasn’t looking for too drastic a change, just a little something to spice things up and bring my channel up to date with newer design trends.
@@ -84,6 +79,8 @@ The seed had been planted for a new look way back in September 2017 with my vide
 
 There were other factors too. It just so happened that in my YouTube homepage recommendations a SuperMega video was suggested. [SuperMega](https://www.youtube.com/channel/UCPPc2PdtA7gCMbjYp_i_TKA) is a channel I’d heard of before but never got around to actually watching. To be honest, that’s still the case now but the thing that did catch my eye was their logo.
 
+![SuperMega logo]({{site.url}}/assets/images/2019/01/dac17-vlcsnap-error661.png "SuperMega logo")
+
 I love it. I love the blocky, square design of it and the wobbly hand drawn strokes. It has a retro feel to it but not overly so – it could work with anything really. I dug a bit deeper and discovered their intro, an incredibly short but effective clip of their logo animating. I say animating, the term is _boiling_. It’s actually what I was referring to when I mentioned the squiggly lines of my How I Create Let’s Plays video. Boiling is simply redrawing the lines of a picture and alternating between slightly different frames of it to create a tiny amount of animation – it’s a cheap and easy way to add visual interest to a video.
 
 So that was it – that was the style I was after. It’s more welcoming and fun. It’s more laidback and flexible. Looking at my finished product it’d be fair to suggest I simply copied their logo but that was never the intention. Alongside the hand drawn style, I had wanted to move away from relying on the banana logo in branding for a long time. Sure, I bet a lot of people associate it with me but from a far too serious business perspective, I’d prefer people to recognise the word _Muckluck_ more instead. I wanted to emphasise my actual name more and what that meant it putting it front and centre, not the banana.
@@ -97,6 +94,7 @@ It took a couple of attempt to nail the look I wanted but let me tell you, there
 Oh and we can’t forget about the banana too. At one point I was very close to dropping it all together but I just couldn’t bring myself to do it. One thing was for sure though; the old pixelated design wouldn’t match all at anymore. Something had to be done. At first I messed around with simplifying it a tad, removing a few pixels here and there but it was starting to lose its shape too much. Then I noticed how the L from Muckluck sort of matched the curve of a banana and with a little flip and edit, it all worked out. I’m not sure I’m 100% happy with it but it fits and, like I mentioned, I’m eager to call attention to the word Muckluck instead anyway.
 
 ## Finishing up
+
 With the logo finished there were only a couple things to make before putting it all live. For a fast video intro similar to SuperMega, I decided to add a quick animation in making the letters ‘grow’ accompanied by a video game-esque sound effect. I actually created that sound effect myself using a brilliant website called [bxfr.net](https://www.bfxr.net/) which allows to you play around with all sorts of weird and wonderful settings. Go have a play around and see what you can come up with.
 
 I put this animation on a clean blue background and, unlike in the past, I’m making an effort to stick to that particular shade of blue. No dodgy eye dropper tool on Photoshop to guess it, I’ve used it so much recently I’ve even got the hex code memorised. #1495ee! I’m dubbing it _Muckluck Blue_. Maybe try painting your walls with it, see how it looks.
