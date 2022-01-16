@@ -61,6 +61,8 @@ Sometimes I wouldn’t even bother with a background! Take a look at some of the
 |---|---|---|
 | [![Minecon]({{site.url}}/assets/images/2019/01/72ba3-minecon-min.jpg)]({{site.url}}/assets/images/2019/01/72ba3-minecon-min.jpg) | [![Q&A]({{site.url}}/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png)]({{site.url}}/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png) | [![MrMuckluckable]({{site.url}}/assets/images/2019/01/92a45-update-bg-hd-copy-min.png)]({{site.url}}/assets/images/2019/01/92a45-update-bg-hd-copy-min.png) |
 
+[![Minecon]({{site.url}}/assets/images/2019/01/72ba3-minecon-min.jpg)]({{site.url}}/assets/images/2019/01/72ba3-minecon-min.jpg) [![Q&A]({{site.url}}/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png)]({{site.url}}/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png)
+
 ## I-dent see an issue
 
 It’s not all doom and gloom though. Believe it or not there is something I’m still happy with from back in the day. Towards the end of 2014 I _finally_ decided to create an outro for videos and make use of annotations which YouTube had introduced in 2008.
@@ -109,7 +111,21 @@ Bingo! I had the image of a new logo floating around clearly in my head. No exis
 
 It took a couple of attempt to nail the look I wanted but let me tell you, there’s nothing better than putting pen to paper and figuring things out the old fashioned way.
 
+|  |  |  |
+|---|---|---|
+| [![Version 1]({{site.url}}/assets/images/2019/01/f84ff-muckluck-01.jpg)]({{site.url}}/assets/images/2019/01/f84ff-muckluck-01.jpg) | [![Version 2]({{site.url}}/assets/images/2019/01/93736-muckluck-5.jpg)]({{site.url}}/assets/images/2019/01/93736-muckluck-5.jpg) | [![Version 3]({{site.url}}/assets/images/2019/01/c8812-muckluck-3.jpg)]({{site.url}}/assets/images/2019/01/c8812-muckluck-3.jpg) |
+
+|  |  |  |
+|---|---|---|
+| [![Version 4]({{site.url}}/assets/images/2019/01/2e984-muckluck-4.jpg)]({{site.url}}/assets/images/2019/01/2e984-muckluck-4.jpg) | [![Version 5]({{site.url}}/assets/images/2019/01/31183-test-channel-art.jpg)]({{site.url}}/assets/images/2019/01/31183-test-channel-art.jpg) | [![Final design]({{site.url}}/assets/images/2019/01/640e6-muckluck-6.jpg)]({{site.url}}/assets/images/2019/01/640e6-muckluck-6.jpg) |
+
 Oh and we can’t forget about the banana too. At one point I was very close to dropping it all together but I just couldn’t bring myself to do it. One thing was for sure though; the old pixelated design wouldn’t match all at anymore. Something had to be done. At first I messed around with simplifying it a tad, removing a few pixels here and there but it was starting to lose its shape too much. Then I noticed how the L from Muckluck sort of matched the curve of a banana and with a little flip and edit, it all worked out. I’m not sure I’m 100% happy with it but it fits and, like I mentioned, I’m eager to call attention to the word Muckluck instead anyway.
+
+|  |  |  |
+|---|---|---|
+| [![Version 1]({{site.url}}/assets/images/2019/01/47e9e-banana-1.jpg)]({{site.url}}/assets/images/2019/01/47e9e-banana-1.jpg) | [![Version 2]({{site.url}}/assets/images/2019/01/87666-banana-2.jpg)]({{site.url}}/assets/images/2019/01/87666-banana-2.jpg) | [![Version 3]({{site.url}}/assets/images/2019/01/a7100-banana-3.jpg)]({{site.url}}/assets/images/2019/01/a7100-banana-3.jpg) |
+
+[![Final design]({{site.url}}/assets/images/2019/01/25c84-banana-4.jpg)]({{site.url}}/assets/images/2019/01/25c84-banana-4.jpg)
 
 ## Finishing up
 
@@ -118,6 +134,10 @@ With the logo finished there were only a couple things to make before putting it
 I put this animation on a clean blue background and, unlike in the past, I’m making an effort to stick to that particular shade of blue. No dodgy eye dropper tool on Photoshop to guess it, I’ve used it so much recently I’ve even got the hex code memorised. #1495ee! I’m dubbing it _Muckluck Blue_. Maybe try painting your walls with it, see how it looks.
 
 The great thing about using a plain background is that it’s so customisable. Another concept I’ve always wanted to use is to alter my branding to match the theme of various Let’s Plays. Think of it like the old MTV idents or [Ahoy’s](https://www.youtube.com/channel/UCE1jXbVAGJQEORz9nZqb5bQ) numerous altered logos. And yep, you guessed it, SuperMega do it too. It’s something I could never really do before since I never had an intro but oh boy, now I’ve got lots of options and it didn’t take long to start using them.
+
+|  |  |
+|---|---|
+| [![The Simpsons Game theme]({{site.url}}/assets/images/2019/01/f9729-episode-4.00_00_01_16.still001.jpg)]({{site.url}}/assets/images/2019/01/f9729-episode-4.00_00_01_16.still001.jpg) | [![Tales of Monkey Island theme]({{site.url}}/assets/images/2019/01/a3d11-tomi-07.00_00_01_12.still001.jpg)]({{site.url}}/assets/images/2019/01/a3d11-tomi-07.00_00_01_12.still001.jpg) |
 
 Pair those with an updated outro which is organised a bit better and now finally includes a link to this blog and boom, we’re pretty much done! Oh right, the outro music. Perhaps I should gloss over that because instead of some nice royalty free track from Kevin MacLeod again or one from YouTube’s own copyright free audio library, I pinched the track from none other than Nintendo. Woops. Nintendo are perhaps the most fussy when it comes to copyright claims but to be fair, I did test it out and so far it’s been fine.
 
