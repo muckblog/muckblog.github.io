@@ -1,3 +1,8 @@
+---
+title:  "Me, myself and My Banana"
+layout: post
+---
+
 Well would you look at that, it’s only gone and turned 2019!
 
 With that being the case, I think it’s long overdue I revive this dusty ol’ blog and actually use it. As mentioned in my [8 Year Anniversary Special](https://www.youtube.com/watch?v=F11MBeJrIKY) (yes, it’s really been that long), I dropped the ball so hard with my original plan to blog that said ball burrowed through the Earth’s layers and popped up somewhere in Australia instead.
