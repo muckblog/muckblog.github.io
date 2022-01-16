@@ -50,12 +50,16 @@ Sometimes I wouldn’t even bother with a background! Take a look at some of the
 <table>
 <thead>
   <tr>
-    <td><img src="https://muckblog.github.io/assets/images/2019/01/72ba3-minecon-min.jpg" alt="Minecon"></td>
-    <td><img src="https://muckblog.github.io/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png" alt="Q&A"></td>
-    <td><img src="https://muckblog.github.io/assets/images/2019/01/92a45-update-bg-hd-copy-min.png" alt="MrMuckluckable"></td>
+    <td><a href="https://muckblog.github.io/assets/images/2019/01/72ba3-minecon-min.jpg"><img src="https://muckblog.github.io/assets/images/2019/01/72ba3-minecon-min.jpg" alt="Minecon"></a></td>
+    <td><a href="https://muckblog.github.io/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png"><img src="https://muckblog.github.io/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png" alt="Q&A"></a></td>
+    <td><a href="https://muckblog.github.io/assets/images/2019/01/92a45-update-bg-hd-copy-min.png"><img src="https://muckblog.github.io/assets/images/2019/01/92a45-update-bg-hd-copy-min.png" alt="MrMuckluckable"></a></td>
   </tr>
 </thead>
 </table>
+
+|  |  |  |
+|---|---|---|
+| [![Minecon]({{site.url}}/assets/images/2019/01/72ba3-minecon-min.jpg)]({{site.url}}/assets/images/2019/01/72ba3-minecon-min.jpg) | [![Q&A]({{site.url}}/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png)]({{site.url}}/assets/images/2019/01/3ff2b-update-bg-hd-copy-2-min.png) | [![MrMuckluckable]({{site.url}}/assets/images/2019/01/92a45-update-bg-hd-copy-min.png)]({{site.url}}/assets/images/2019/01/92a45-update-bg-hd-copy-min.png) |
 
 ## I-dent see an issue
 
