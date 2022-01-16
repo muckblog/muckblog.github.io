@@ -29,7 +29,7 @@ Not long after creating that blog was when I took my first step into the world o
 
 I had the name, I had the logo. Great! But wait, what about the rest of it? Intros and outros, backgrounds and fonts, all that stuff mattered to me just as much as the actual video content. I’ve always loved art and design throughout my childhood and into school, from Sats to GCSEs to A-Levels. (Speaking of which, I may show off some old pieces of art from school in future blog posts. Artchives!) However, looking at my first foray into design for the channel, you’d perhaps think otherwise.
 
-![My old YouTube channel]({{site.url}}/assets/images/2019/01/29c09-vlcsnap-2019-01-26-14h27m50s424.png "My old YouTube channel")
+![My old YouTube channel]({{site.url}}/assets/images/2019/01/29c09-vlcsnap-2019-01-26-14h27m50s424.png)
 
 This is the earliest snapshot of my channel I have unfortunately. It’s actually taken from my [One Year Anniversary Special video](https://www.youtube.com/watch?v=zSrl3oxwoP4), hence the terrible quality but it’ll just have to do. One thing that’s obvious from the get-go is that blue has always been my main brand colour. It’s probably my favourite colour (ok, maybe turquoise but close enough) and throughout all the designs it’s stuck around. Am I too old to have a favourite colour? Is that just a kid’s thing? Who knows.
 
@@ -37,7 +37,7 @@ For some reason I decided to pick a dot pattern as my main background and let me
 
 But it gets worse. Not long afterwards YouTube changed its design (the first of many) and took away the ability to customise your background. Instead we were left with only a banner to modify and this is the design I eventually whipped up…
 
-![My eyes! The goggles do nothing]({{site.url}}/assets/images/2019/01/868c1-youtube_banner-min.png "My eyes! The goggles do nothing")
+![My eyes! The goggles do nothing]({{site.url}}/assets/images/2019/01/868c1-youtube_banner-min.png)
 
 How to make that dull dot pattern worse? Stick a nasty gradient on top of it. Gradients in design aren’t naturally bad but, more often than not, they look terrible. In my opinion you’ve got to be subtle with them and that white gradient is anything but.
 
@@ -79,7 +79,7 @@ The seed had been planted for a new look way back in September 2017 with my vide
 
 There were other factors too. It just so happened that in my YouTube homepage recommendations a SuperMega video was suggested. [SuperMega](https://www.youtube.com/channel/UCPPc2PdtA7gCMbjYp_i_TKA) is a channel I’d heard of before but never got around to actually watching. To be honest, that’s still the case now but the thing that did catch my eye was their logo.
 
-![SuperMega logo]({{site.url}}/assets/images/2019/01/dac17-vlcsnap-error661.png "SuperMega logo")
+![SuperMega logo]({{site.url}}/assets/images/2019/01/dac17-vlcsnap-error661.png)
 
 I love it. I love the blocky, square design of it and the wobbly hand drawn strokes. It has a retro feel to it but not overly so – it could work with anything really. I dug a bit deeper and discovered their intro, an incredibly short but effective clip of their logo animating. I say animating, the term is _boiling_. It’s actually what I was referring to when I mentioned the squiggly lines of my How I Create Let’s Plays video. Boiling is simply redrawing the lines of a picture and alternating between slightly different frames of it to create a tiny amount of animation – it’s a cheap and easy way to add visual interest to a video.
 
