@@ -26,7 +26,7 @@ One highlight of the concert was a literal one - conductor Carl Davis was adorne
 
 |  |  |
 |---|---|
-| [![His coat was similar to this only even shinier!]({{site.url}}/assets/images/2019/11/65c5a-carl-davis-1.jpg)]({{site.url}}/assets/images/2019/11/65c5a-carl-davis-1.jpg) | [![The Best of Bond CD]({{site.url}}/assets/images/2019/11/202c8-music-of-bond-1.jpg)]({{site.url}}/assets/images/2019/11/202c8-music-of-bond-1.jpg) |
+| [![His coat was similar to this only even shinier!]({{site.url}}/assets/images/2019/11/65c5a-carl-davis-2.jpg)]({{site.url}}/assets/images/2019/11/65c5a-carl-davis-2.jpg) | [![The Best of Bond CD]({{site.url}}/assets/images/2019/11/18ca8-music-of-bond-2.jpg)]({{site.url}}/assets/images/2019/11/18ca8-music-of-bond-2.jpg) |
 
 ## Bond in Motion
 
@@ -90,7 +90,7 @@ My only criticism was the lack of any strings in the orchestra although this may
 
 |  |  |
 |---|---|
-| [![Q The Music]({{site.url}}/assets/images/2019/11/4526f-q-the-music-1.jpg)]({{site.url}}/assets/images/2019/11/4526f-q-the-music-1.jpg) | [![Their signed CD]({{site.url}}/assets/images/2019/11/72ed2-q-the-music-cd-1.jpg)]({{site.url}}/assets/images/2019/11/72ed2-q-the-music-cd-1.jpg) |
+| [![Q The Music]({{site.url}}/assets/images/2019/11/4526f-q-the-music-1.jpg)]({{site.url}}/assets/images/2019/11/4526f-q-the-music-1.jpg) | [![Their signed CD]({{site.url}}/assets/images/2019/11/72ed2-q-the-music-cd-2.jpg)]({{site.url}}/assets/images/2019/11/72ed2-q-the-music-cd-2.jpg) |
 
 ## Skyfall in Concert
 
