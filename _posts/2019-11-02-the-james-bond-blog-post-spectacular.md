@@ -10,13 +10,13 @@ And if you’re a subscriber of mine, there’s been no lack of 007 on the chann
 
 As well as my digital exploits I’ve also made an effort over the years to visit as much Bond stuff in person. Going to the films themselves is a bit of an obvious example and something I tried to make slightly more special last time when I saw Spectre. What better than to see the brand new film on the biggest screen in the UK? It’s just a pity then that the film was absolutely pants…
 
-![Spectre at the IMAX Waterloo]({{site.url}}/assets/images/2019/09/c1df7-spectre-imax.jpg)
+![Spectre at the IMAX Waterloo]({{site.url}}/assets/images/2019/11/c1df7-spectre-imax.jpg)
 
 ## The Music of Bond
 
 Turn back the clock to October 31st, 2010 and you’d see me and my friend George take a trip to the Royal Albert Hall to watch the Royal Philharmonic Orchestra perform The Music of Bond...royally. It was the first big trip to London I’d done with a friend and it ended up being a fantastic show. There’s something magical about hearing fully orchestrated music in the flesh – the hairs on the back of my head stood up and my eyes darted about to focus on each individual instrument being played.
 
-![Enjoy the awful quality of my 2010 phone camera!]({{site.url}}/assets/images/2019/09/202c8-music-of-bond-1.jpg)
+![Enjoy the awful quality of my 2010 phone camera!]({{site.url}}/assets/images/2019/11/202c8-music-of-bond-1.jpg)
 
 It was presented by former Bond girl Honor Blackman who played the aforementioned Pussy Galore and throughout the show she sprinkled some quips and insights of her time filming Goldfinger way back in 1964. Two singers were tasked with the audacious job of covering James Bond’s varied collection of theme songs - Simon Bowman and Mary Carewe. Mary was certainly the better singer but that’s to be expected when the songs lean so heavily towards female vocals. Sorry Simon!
 
@@ -24,7 +24,7 @@ One highlight of the concert was a literal one - conductor Carl Davis was adorne
 
 |  |  |
 |---|---|
-| [![His coat was similar to this only even shinier!]({{site.url}}/assets/images/2019/09/65c5a-carl-davis-1.jpg)]({{site.url}}/assets/images/2019/09/65c5a-carl-davis-1.jpg) | [![The Best of Bond CD]({{site.url}}/assets/images/2019/09/202c8-music-of-bond-1.jpg)]({{site.url}}/assets/images/2019/09/202c8-music-of-bond-1.jpg) |
+| [![His coat was similar to this only even shinier!]({{site.url}}/assets/images/2019/11/65c5a-carl-davis-1.jpg)]({{site.url}}/assets/images/2019/11/65c5a-carl-davis-1.jpg) | [![The Best of Bond CD]({{site.url}}/assets/images/2019/11/202c8-music-of-bond-1.jpg)]({{site.url}}/assets/images/2019/11/202c8-music-of-bond-1.jpg) |
 
 ## Bond in Motion
 
@@ -34,7 +34,7 @@ From the classic Aston Martin DB5 to the infamous Lotus Esprit and everything in
 
 It’s cheap as chips for a ticket and bang in the centre of London at Covent Garden so if you’re in the city I’d definitely recommend a visit. Just avoid the terrifying waxwork of Sean Connery...
 
-![Shocking. Positively shocking.]({{site.url}}/assets/images/2019/09/dc793-bond-in-motion-2.jpg)
+![Shocking. Positively shocking.]({{site.url}}/assets/images/2019/11/dc793-bond-in-motion-2.jpg)
 
 ## An Evening with Peter Lamont
 
@@ -50,7 +50,7 @@ And as the cherry on top of problems that evening, I had to leave early to catch
 
 Thankfully there was a silver lining - the event coincided with the release of Peter’s new book, cheesily titled _The Man with the Golden Eye_ which was on sale at a discounted price during the intermission. I managed to nab a copy and even get a signature from the man himself…
 
-![The Man with the Golden Eye]({{site.url}}/assets/images/2019/09/a2002-peter-lamont-1.jpg)
+![The Man with the Golden Eye]({{site.url}}/assets/images/2019/11/a2002-peter-lamont-1.jpg)
 
 ## Casino Royale in Concert
 
@@ -58,7 +58,7 @@ In October 2017 I returned once again to the Royal Albert Hall for a brand new e
 
 It was touted as “_the first time an entire Bond score has ever officially been performed live_” and featured Gavin Greenaway conducting David Arnold’s fantastic score. Speaking of David Arnold, he was there himself for a preliminary Q&A session before the show began. To be honest the Q&A was too short to contain anything of substance but it was a neat addition nonetheless.
 
-![Casino Royale in Concert]({{site.url}}/assets/images/2019/09/836e7-casino-royale-conert-1.jpg)
+![Casino Royale in Concert]({{site.url}}/assets/images/2019/11/836e7-casino-royale-conert-1.jpg)
 
 Much like back in 2010, hearing the orchestra perform live was a wonderful experience and brought the film to life before my eyes...and ears. Who needs surround sound when you’ve got the real deal right in front of you? I tried my best not to focus too much on the film itself and savour the live performance by watching the musicians instead. It’s no easy feat, let me tell you! Often I’d snap out of the film and force myself to pay attention to each section of the orchestra.
 
@@ -88,7 +88,7 @@ My only criticism was the lack of any strings in the orchestra although this may
 
 |  |  |
 |---|---|
-| [![Q The Music]({{site.url}}/assets/images/2019/09/4526f-q-the-music-1.jpg)]({{site.url}}/assets/images/2019/09/4526f-q-the-music-1.jpg) | [![Their signed CD]({{site.url}}/assets/images/2019/09/72ed2-q-the-music-cd-1.jpg)]({{site.url}}/assets/images/2019/09/72ed2-q-the-music-cd-1.jpg) |
+| [![Q The Music]({{site.url}}/assets/images/2019/11/4526f-q-the-music-1.jpg)]({{site.url}}/assets/images/2019/11/4526f-q-the-music-1.jpg) | [![Their signed CD]({{site.url}}/assets/images/2019/11/72ed2-q-the-music-cd-1.jpg)]({{site.url}}/assets/images/2019/11/72ed2-q-the-music-cd-1.jpg) |
 
 ## Skyfall in Concert
 
@@ -100,7 +100,7 @@ Thomas Newman was there himself in a surprise visit to introduce his brother Dav
 
 |  |  |
 |---|---|
-| [![The Aston Martin DB5 looking lovely]({{site.url}}/assets/images/2019/09/35a01-aston-martin-db5-2.jpg)]({{site.url}}/assets/images/2019/09/35a01-aston-martin-db5-2.jpg) | [![Skyfall in Concert]({{site.url}}/assets/images/2019/09/0387d-skyfall-feature-image-3.jpeg)]({{site.url}}/assets/images/2019/09/0387d-skyfall-feature-image-3.jpeg) |
+| [![The Aston Martin DB5 looking lovely]({{site.url}}/assets/images/2019/11/35a01-aston-martin-db5-2.jpg)]({{site.url}}/assets/images/2019/11/35a01-aston-martin-db5-2.jpg) | [![Skyfall in Concert]({{site.url}}/assets/images/2019/11/0387d-skyfall-feature-image-3.jpeg)]({{site.url}}/assets/images/2019/11/0387d-skyfall-feature-image-3.jpeg) |
 
 I did notice a few improvements compared to before, namely the decision to add subtitles to the film screening which helped when the dialogue wasn’t quite loud enough. However the sound mixing this time around was far, far better anyway and never did it feel like the orchestra and the film dialogue were battling against each other to be heard. As the audience applauded the finale for what seemed like an eternity, another tremendous James Bond event in London came to an end.
 
