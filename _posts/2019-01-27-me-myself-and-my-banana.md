@@ -102,9 +102,6 @@ It took a couple of attempt to nail the look I wanted but let me tell you, there
 |  |  |  |
 |---|---|---|
 | [![Version 1]({{site.url}}/assets/images/2019/01/f84ff-muckluck-01.jpg)]({{site.url}}/assets/images/2019/01/f84ff-muckluck-01.jpg) | [![Version 2]({{site.url}}/assets/images/2019/01/317f0-muckluck-2.jpg)]({{site.url}}/assets/images/2019/01/317f0-muckluck-2.jpg) | [![Version 3]({{site.url}}/assets/images/2019/01/c8812-muckluck-3.jpg)]({{site.url}}/assets/images/2019/01/c8812-muckluck-3.jpg) |
-
-|  |  |  |
-|---|---|---|
 | [![Version 4]({{site.url}}/assets/images/2019/01/2e984-muckluck-4.jpg)]({{site.url}}/assets/images/2019/01/2e984-muckluck-4.jpg) | [![Version 5]({{site.url}}/assets/images/2019/01/93736-muckluck-5.jpg)]({{site.url}}/assets/images/2019/01/93736-muckluck-5.jpg) | [![Final design]({{site.url}}/assets/images/2019/01/640e6-muckluck-6.jpg)]({{site.url}}/assets/images/2019/01/640e6-muckluck-6.jpg) |
 
 Oh and we can’t forget about the banana too. At one point I was very close to dropping it all together but I just couldn’t bring myself to do it. One thing was for sure though; the old pixelated design wouldn’t match all at anymore. Something had to be done. At first I messed around with simplifying it a tad, removing a few pixels here and there but it was starting to lose its shape too much. Then I noticed how the L from Muckluck sort of matched the curve of a banana and with a little flip and edit, it all worked out. I’m not sure I’m 100% happy with it but it fits and, like I mentioned, I’m eager to call attention to the word Muckluck instead anyway.
@@ -112,9 +109,6 @@ Oh and we can’t forget about the banana too. At one point I was very close to 
 |  |  |
 |---|---|
 | [![Version 1]({{site.url}}/assets/images/2019/01/47e9e-banana-1.jpg)]({{site.url}}/assets/images/2019/01/47e9e-banana-1.jpg) | [![Version 2]({{site.url}}/assets/images/2019/01/87666-banana-2.jpg)]({{site.url}}/assets/images/2019/01/87666-banana-2.jpg) |
-
-|  |  |
-|---|---|
 | [![Version 3]({{site.url}}/assets/images/2019/01/a7100-banana-3.jpg)]({{site.url}}/assets/images/2019/01/a7100-banana-3.jpg) | [![Final design]({{site.url}}/assets/images/2019/01/25c84-banana-4.jpg)]({{site.url}}/assets/images/2019/01/25c84-banana-4.jpg) |
 
 ## Finishing up
