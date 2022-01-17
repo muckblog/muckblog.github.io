@@ -6,6 +6,8 @@ categories: james bond
 
 As some of you may know, I’m a _bit_ of a James Bond fan. I’ve been one ever since I was a little kid, giving a show and tell to the rest of my class on the names of all the villains and henchmen, movie titles and Bond girls. (The thought of a nine-year-old talking about Pussy Galore must have given my teacher a chuckle.)
 
+<!-- readmore -->
+
 And if you’re a subscriber of mine, there’s been no lack of 007 on the channel over the past 8 years from my pretty naff [Skyfall review](https://www.youtube.com/watch?v=k8nR5-s6F4Y) to my [Let’s Play of Everything or Nothing](https://www.youtube.com/watch?v=44-WbvJFWSE&list=PLbSWnLFd8sFqrCrK36vbsBgPHxPu2V-Hb) and especially my still-not-finished-but-I’ll-get-there-at-some-point [project where I review every James Bond film](https://www.youtube.com/watch?v=fdDf-4uxj0k&list=PLbSWnLFd8sFoP-K69dVCgkr_LFQSKQXbV) (give me a break, it’s a mammoth task!)
 
 As well as my digital exploits I’ve also made an effort over the years to visit as much Bond stuff in person. Going to the films themselves is a bit of an obvious example and something I tried to make slightly more special last time when I saw Spectre. What better than to see the brand new film on the biggest screen in the UK? It’s just a pity then that the film was absolutely pants…
