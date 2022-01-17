@@ -6,6 +6,8 @@ categories: james bond
 
 The 25th James Bond film is creeping ever closer and with each step towards its release on April 3rd comes more and more information. Sponsorship brands, 30-second Super Bowl spots and now the biggie - the theme song!
 
+<!-- readmore -->
+
 It was announced on January 14th that none other than teenage singer/songwriter sensation Billie Eilish would be performing the titular track and to be honest, that didn’t come as much of a surprise. There were rumours months ago she was in the running and her current status matches EON’s typical formula of picking what they hope to be a surefire number 1 ([and whaddya know, it was](https://www.officialcharts.com/chart-news/billie-eillishs-james-bond-theme-no-time-to-die-is-the-uks-number-1-trending-song__28699/)). With that prior inkling, my reaction was a solid - _‘mmh’_ - and that was about it. She’s hugely popular for a reason and with such massive success so young, she’s got to be doing something right. Sure, her music isn’t my exact cup of tea but I wanted to reserve judgement until the song was released.
 
 Come midnight on February 13th and up it pops on [her YouTube channel](https://www.youtube.com/watch?v=GB_S2qFh5lU). Bleary eyed I plugged in my earphones and got listening. My immediate reaction was...well, it’s a tad disappointing but not awful - i.e. the same reaction I had listening to ‘Writing’s on the Wall’ for the first time.
