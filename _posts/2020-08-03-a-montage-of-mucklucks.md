@@ -6,6 +6,8 @@ categories: youtube
 
 A few months back when I started to create regular content once again, I initially uploaded  a [welcome back video](https://www.youtube.com/watch?v=CMqzdNBAU6s) with a slightly different intro. One of the things I most wanted to do with my recent 'rebrand' was customise it to suit the particular series or Let's Play it was in. Yellow for The Simpsons, wooden planks for Monkey Island - you get the point...
 
+<!-- readmore -->
+
 For my return I decided to go all out and try morphing my logo into all sorts of different games. It was a nice way to pass the time while not being able to record and the challenge of recreating some of the styles was actually really fun. I spliced them all together into a fast montage and bish, bash, bosh - intro made!
 
 {% include embed.html url="https://www.youtube.com/embed/7L4ZoYpRTdo" %}
