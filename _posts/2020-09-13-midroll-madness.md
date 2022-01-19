@@ -59,7 +59,7 @@ It was time to develop some repetitive strain injury. I’ve now gone through ev
 
 Actually, if there truly is a lesson to be learned from all of this it’s that you should probably go ahead and install an adblocker. It’ll make your web browsing experience infinitely better. And for any content creators income that you’d be affecting, send them a little something on their Patreon, or Ko-fi or Paypal or whatever. Trust me, it’ll be a lot more than whatever they’d get from your clicks…
 
-* Also mentioned in the email was this:
+*Also mentioned in the email was this:
 
 > “Turning on auto mid-roll ads saves creators extra work while helping increase the monetisation potential for new and existing content.”
 
