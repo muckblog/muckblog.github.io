@@ -2,6 +2,7 @@
 title:  "No Time to Eilish?"
 layout: post
 categories: james bond
+image: /assets/images/2020/02/billie_eilish.png
 ---
 
 The 25th James Bond film is creeping ever closer and with each step towards its release on April 3rd comes more and more information. Sponsorship brands, 30-second Super Bowl spots and now the biggie - the theme song!
