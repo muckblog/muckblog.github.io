@@ -2,6 +2,7 @@
 title:  "Disneyland Paris – Top 5 Attractions (Part 1)"
 layout: post
 categories: disney
+image: /assets/images/2019/07/41c3d-disneyland-paris-1.jpg
 ---
 
 Last November I stepped foot inside Disneyland Paris for the very first time and if I’m being completely honest, I’ve thought about that trip near enough daily ever since. It wasn’t a very long holiday, just three days spent racking up thousands of steps wandering around the _most magical place on Earth™_. But as corny as that sounds I really did have an incredible time in that bizarre little bubble of a world at Marne-la-Vallée, located just outside Paris.
