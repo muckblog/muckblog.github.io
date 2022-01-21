@@ -2,6 +2,7 @@
 title:  "Midroll Madness"
 layout: post
 categories: youtube
+image: /assets/images/2020/09/youtube-error-1.png
 ---
 
 
