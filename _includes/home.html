@@ -1,9 +1,11 @@
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
-    <figure>
-      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}"/>
-    </figure>
+    <a href="{{ post.url | relative_url }}">
+      <figure style="background-image: url({{ post.image | relative_url }}); height: 15em; width: 100%; border: 15px solid black; border-radius: 15px; background-position: center;
+    background-size: cover; margin-bottom: 1em; box-shadow: -15px 15px black, -10px 10px black, -5px 5px black;">
+      </figure>
+    </a>  
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
