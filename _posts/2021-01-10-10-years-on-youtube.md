@@ -4,8 +4,6 @@ layout: post
 categories: youtube
 ---
 
-{% include embed.html url="https://www.youtube.com/embed/2Jhm6bZKYT0" %}
-
 _N.B. The following was a comment I posted on my 10 year anniversary video, uploaded on January 10th 2021 - I thought it best to make a blog post too!_
 
 Ten years condensed into five minutes. I uploaded the first video to my YouTube channel back on 10th January 2011 which means it’s been a whopping decade of Let’s Plays, livestreams, collaborations and more. Whilst you might expect a big, blowout anniversary special for reaching the big 1-0, I figured a simple montage would keep it short and sweet. And that also means no incessant rambling from yours truly! I figured I’d be best off writing something down instead of babbling and losing my train of thought narrating. Let’s go!
@@ -33,3 +31,5 @@ Indeed, this was the year I finally made my own merch. Not some crappy t-shirt o
 I’m going to stop rambling now, I think that’s pretty much everything I wanted to address. Thank you to each and every person who has subscribed, liked, commented, donated, chatted in a stream, shared, read my blog, tweeted, bought a pin and everything in between. Making videos on YouTube has been a part of my life for ten years now and it’s only continued for so long because of you. Here’s to many more years to come!
 
 @@@8u)
+
+{% include embed.html url="https://www.youtube.com/embed/2Jhm6bZKYT0" %}
