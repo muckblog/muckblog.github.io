@@ -2,6 +2,7 @@
 title:  "The James Bond Blog Post Spectacular"
 layout: post
 categories: james bond
+image: /assets/images/2019/11/0387d-skyfall-feature-image-3.jpeg
 ---
 
 As some of you may know, I’m a _bit_ of a James Bond fan. I’ve been one ever since I was a little kid, giving a show and tell to the rest of my class on the names of all the villains and henchmen, movie titles and Bond girls. (The thought of a nine-year-old talking about Pussy Galore must have given my teacher a chuckle.)
