@@ -2,6 +2,7 @@
 title:  "Latte (f)art – My Journey into the World of Espresso"
 layout: post
 categories: coffee
+image: /assets/images/2020/10/probably-my-best-so-far.jpeg
 ---
 
 In a [previous blog post]({{site.url}}/2020/02/no-time-to-eilish/) that was all about Billie Eilish and her then recently released theme for the newest Bond film ‘No Time To Die’. I ended it noting:
