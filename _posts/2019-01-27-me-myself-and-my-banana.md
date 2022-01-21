@@ -1,6 +1,8 @@
 ---
 title:  "Me, myself and My Banana"
 layout: post
+categories: youtube
+image: /assets/images/2019/01/63ff7-banana-bg.jpg
 ---
 
 Well would you look at that, it’s only gone and turned 2019!
