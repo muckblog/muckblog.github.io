@@ -24,7 +24,7 @@ And that got me thinking - wouldn’t it be cool to have _my own_ enamel pins? I
 
 Time to research how on earth I was going to create some enamel pins without spending a fortune. In my head it was an industry where you’d have to order thousands at a time in big bulk orders by huge companies. Turns out there’s a thriving market for indie pin makers who are creating smaller batches to sell on their online shops - just take a look at the vast array of edgy, inspirational or just plain weird offerings on the #enamelpin Instagram feed.
 
-Now knowing it _>was_ in fact a feasible idea, I did what any other person would do and just googled it. “Custom enamel pins” brought up a ton of companies offering just what I needed...custom enamel pins, duh. With quantities as small as fifty, websites like The Enamel Pin Factory and Made By Cooper also featured easy-to-use ‘builder’ pages where I could get instant quotes.
+Now knowing it _was_ in fact a feasible idea, I did what any other person would do and just googled it. “Custom enamel pins” brought up a ton of companies offering just what I needed...custom enamel pins, duh. With quantities as small as fifty, websites like The Enamel Pin Factory and Made By Cooper also featured easy-to-use ‘builder’ pages where I could get instant quotes.
 
 That was the good news, the bad news was the price - it wasn’t cheap. I soon discovered there wasn’t much difference in price between making 50 and making, say, 200. That’s because a large chunk of the costs involved is creating the mould, and that needs to happen regardless of how many you end up making.
 
@@ -46,7 +46,7 @@ I trepidatiously clicked my way around the website, signing up and creating a �
 
 In it I asked for a quote based on how much 50/100 hard enamel pins* 30mm big with three colours would cost, including shipping to merry ol’ England. Little did I know that was to open the flood gates with a torrent of messages and sales pitches from these businesses. Y’see Alibaba has an inbuilt chat system, pretty much akin to Facebook messenger where you’re able to converse with the employees. And just like any good sales pitch, if I didn’t respond in a timely manner, they were quick to press me on whether I wanted to continue or not.
 
-* There are two types of pins, hard enamel vs. soft enamel. Simply put, hard enamel costs more but is higher quality and more durable. It’s flat compared to soft enamel where the enamel ‘sits’ in the mould more rather than being flush with it. There’s also specific colour codes to consider and pin placement etc. This is what I ended up with when it came to the pin blueprint:
+*There are two types of pins, hard enamel vs. soft enamel. Simply put, hard enamel costs more but is higher quality and more durable. It’s flat compared to soft enamel where the enamel ‘sits’ in the mould more rather than being flush with it. There’s also specific colour codes to consider and pin placement etc. This is what I ended up with when it came to the pin blueprint:
 
 ![Pin design]({{site.url}}/assets/images/2020/11/pin-design.png)
 
@@ -64,7 +64,7 @@ I’d read about how to expect not all the pins to come out perfectly. For profe
 
 ![The banana pin in all its glory]({{site.url}}/assets/images/2020/11/img_1303_vignette-2.png)
 
-## ""Look at that subtle colouring. The tasteful thickness.""
+## “Look at that subtle colouring. The tasteful thickness.”
 
 I had my pins but that was all. In all the pretty Instagram photos, pins were on a backing card that complimented the design and rounded off the whole thing. Backing cards were an option with the manufacturers on Alibaba but I decided early on that I’d make the backing cards separately. How, you may ask? Business cards!
 
