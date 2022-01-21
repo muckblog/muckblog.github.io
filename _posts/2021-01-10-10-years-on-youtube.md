@@ -2,6 +2,7 @@
 title:  "10 Years on YouTube"
 layout: post
 categories: youtube
+image: /assets/images/2021/01/10-years-youtube-min.png
 ---
 
 _N.B. The following was a comment I posted on my 10 year anniversary video, uploaded on January 10th 2021 - I thought it best to make a blog post too!_
