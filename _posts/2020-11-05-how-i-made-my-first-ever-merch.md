@@ -18,7 +18,7 @@ Fast forward six weeks and [I did my first ever unboxing...unpacking?](https://w
 
 ![I just think they're neat]({{site.url}}/assets/images/2020/11/potato-neat.gif)
 
-And that got me thinking - wouldn’t it be cool to have _my own_ enamel pins? I work alongside some graphic designers and I’m always jealous when they get to see their own designs in physical form, be it a leaflet or a banner. My [semi-recent rebrand]({{site.url}}/2019/01/27/me-myself-and-my-banana/) was ripe to use, especially since my banana logo was a nice, simple design and the perfect fit for a pin.
+And that got me thinking - wouldn’t it be cool to have _my own_ enamel pins? I work alongside some graphic designers and I’m always jealous when they get to see their own designs in physical form, be it a leaflet or a banner. My [semi-recent rebrand]({{site.url}}/2019/01/me-myself-and-my-banana/) was ripe to use, especially since my banana logo was a nice, simple design and the perfect fit for a pin.
 
 ## Made in China
 
