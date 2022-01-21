@@ -1,6 +1,8 @@
 ---
 title:  "What is the future of The Simpsons video games?"
 layout: post
+categories: simpsons
+image: /assets/images/2018/03/1dfef-the_simpsons_tapped_out.jpg
 ---
 
 Over its 28 year history, spanning 29 seasons and 600+ episodes, The Simpsons has racked up its fair share of video games. Not content with its breakout success on the Fox network, the show entered into the console world just 2 years after its debut with _Bart vs. the Space Mutants_ in 1991. Business execs were keen to ride the wave of Bartmania sweeping across the nation and fans were equally as eager to play as the “underachiever and proud of it.” It’s no wonder then why _6_ more Bart-centric games were released between 1991 and 1992 alone, all to varying degrees of success. Quantity over quality was the driving factor but as the decade progressed, the video games broadened away from Bart’s adventurous exploits and into new territory.
