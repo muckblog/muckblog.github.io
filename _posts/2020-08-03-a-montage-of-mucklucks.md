@@ -2,6 +2,7 @@
 title:  "A Montage of Mucklucks"
 layout: post
 categories: youtube
+image: /assets/images/2020/08/zelda_link_to_the_past.png
 ---
 
 A few months back when I started to create regular content once again, I initially uploaded  a [welcome back video](https://www.youtube.com/watch?v=CMqzdNBAU6s) with a slightly different intro. One of the things I most wanted to do with my recent 'rebrand' was customise it to suit the particular series or Let's Play it was in. Yellow for The Simpsons, wooden planks for Monkey Island - you get the point...
