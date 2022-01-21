@@ -3,8 +3,8 @@ layout: default
 ---
 
 <article>
-  {% include meta.html post=page %}
   <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+  {% include meta.html post=page %}
   {{ content }}
   {% if page.comments != false and site.comments.isso or site.comments.disqus %}
     <hr>
