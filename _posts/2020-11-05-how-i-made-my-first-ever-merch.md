@@ -2,6 +2,7 @@
 title:  "How I made my first ever merch"
 layout: post
 categories: youtube
+image: /assets/images/2020/11/img_1303_vignette-2.png
 ---
 
 I did it. I finally made some merch. It seems like an obligatory stage in a YouTuber’s journey - heading to spreadshirt.com, sticking your logo on a t-shirt and Bob’s your uncle, sorted.
