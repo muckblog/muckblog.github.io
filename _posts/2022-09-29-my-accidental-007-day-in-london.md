@@ -39,9 +39,7 @@ But perhaps my favourite of them all was a lot related to good ol’ Sir Rog him
 
 ![The Imperial Easter Egg from Octopussy]({{site.url}}/assets/images/2022/09/octopussy-egg.jpg)
 
-Though Fabergé eggs aren’t really my cup of tea, I loved this little thing sparkling away in the corner. That being said I can’t for the life of me remember its role in the plot of the film.
-
-And so he should be, the thing is apparently worth a hefty £327,600 to somebody at least. A _cracking_ result to be sure.
+Though Fabergé eggs aren’t really my cup of tea, I loved this little thing sparkling away in the corner. That being said I can’t for the life of me remember its role in the plot of the film. Never mind though because the thing is apparently worth a hefty £327,600 to somebody at least. A _cracking_ result to be sure.
 
 There were tons of other items too, ranging from No Time to Die’s bionic eye to production clapperboards. On the topic of No Time to Die, Bond’s final outfit looked to be in remarkably good condition despite being blasted by a barrage of missiles.
 
