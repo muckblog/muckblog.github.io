@@ -39,7 +39,7 @@ But perhaps my favourite of them all was a lot related to good ol’ Sir Rog him
 
 ![The Imperial Easter Egg from Octopussy]({{site.url}}/assets/images/2022/09/octopussy-egg.jpg)
 
-Though Fabergé eggs aren’t really my cup of tea, I loved this little thing sparkling away in the corner. I can’t for the life of me remember its role in the plot of the film though.
+Though Fabergé eggs aren’t really my cup of tea, I loved this little thing sparkling away in the corner. That being said I can’t for the life of me remember its role in the plot of the film.
 
 And so he should be, the thing is apparently worth a hefty £327,600 to somebody at least. A _cracking_ result to be sure.
 
