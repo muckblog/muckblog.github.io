@@ -78,7 +78,7 @@ title: "Bond Revisited"
         }
         .bg-page {
           background-color: #f0e0c1;
-          width: calc(100% - 3rem);
+          width: calc(100% - 3.5rem);
           height: 100%;
           position: absolute;
           border-radius: 0 1rem 1rem 0;
@@ -129,7 +129,14 @@ title: "Bond Revisited"
           user-select: none;
         }        
 
-        .polaroid {
+        .polaroid-sm {
+          background-color: white;
+          box-shadow: -2px 2px 10px black;
+          border: solid 10px white;
+          z-index: 1;
+        }
+
+        .polaroid-md {
           margin-top:-3rem;
           background-color: white;
           box-shadow: -2px 2px 10px black;
@@ -154,7 +161,7 @@ title: "Bond Revisited"
           border-bottom-right-radius: 0;
           border-bottom-left-radius: 0;
         }
-        span.paper-clip {
+        .polaroid-md span.paper-clip {
           background: transparent;
           height: 15px;
           width: 16px;
@@ -171,6 +178,27 @@ title: "Bond Revisited"
           margin-top: -10px;
           rotate: 180deg;
           top:-25px;
+          transform: scale(1.5
+          );
+        }
+
+        .polaroid-sm span.paper-clip {
+          background: transparent;
+          height: 15px;
+          width: 16px;
+          border-radius: 10px;
+          border-top-right-radius: 0;
+          border-top-left-radius: 0;
+          border-bottom: 2px solid darkslategray;
+          border-left: 2px solid darkslategray;
+          border-right: 2px solid darkslategray;
+          display: inline-block;
+          position: absolute;
+          z-index: 2;
+          margin-left: 20px;
+          margin-top: -10px;
+          rotate: 180deg;
+          top:24px;
           transform: scale(1.5
           );
         }
@@ -245,27 +273,65 @@ title: "Bond Revisited"
         a:hover {
           color:#ea4f3e;
         }
+
+        /* Tabbed menu for small screens */
+
+        .nav-small button {
+          font-family: Lucida Console, Arial, sans-serif;
+          font-size: 1rem;
+          border-radius: 0px !important;
+        }
+        .button-sm-inner {
+          clip-path: polygon(20% 0, 80% 0, 100% 100%, 0 100%);
+          padding: 0.25rem 1.25rem;
+          background-color: #a88f72 !important;
+          border-radius: 1.5rem 1.5rem 0 0 !important;
+          font-family: Lucida Console, Arial, sans-serif;
+          font-size: 1rem;
+          margin: 0rem 0.25rem;
+        }
+
+        .nav-sm .nav-link{
+          padding: 0;
+          background-color: transparent !important;
+          color: black;
+        }
+        .nav.sm .nav-link:hover {
+          color:white;
+          background-color: darkslategray;
+        }
       </style>
 
     </head>
     <body>
       <main>
-        <div class="container">
-          <div class="row mt-5 text-center g-0 position-relative">
+        <div class="container my-5">
+          <div class="nav nav-pills justify-content-center d-flex d-md-none mt-3 nav-small" id="v-pills-tab" role="tablist" aria-orientation="horizontal">
+                  <button class="nav-link active" id="v-pills-intro-tab" data-bs-toggle="pill" data-bs-target="#v-pills-intro" type="button" role="tab" aria-controls="v-pills-intro" aria-selected="false"><div class="button-sm-inner">ABOUT</div></button>
+                  <button class="nav-link" id="v-pills-episodes-tab" data-bs-toggle="pill" data-bs-target="#v-pills-episodes" type="button" role="tab" aria-controls="v-pills-episodes" aria-selected="true"><div class="button-sm-inner">EPISODES</div></button>
+                  <button class="nav-link" id="v-pills-more-tab" data-bs-toggle="pill" data-bs-target="#v-pills-more" type="button" role="tab" aria-controls="v-pills-more" aria-selected="false"><div class="button-sm-inner">MORE</div></button>
+                </div>
+          <div class="row text-center g-0 position-relative">
             <div class="bg-page">
-
             </div>
             <div class="d-flex align-items-start">
               <div class="tab-content" id="v-pills-tabContent">
                 <div class="tab-pane show active position-relative" id="v-pills-intro" role="tabpanel" aria-labelledby="v-pills-intro-tab" tabindex="0">
                   <div class="text-start row g-0">
-                    <div class="col col-md-6 col-lg-5 polaroid">
+                    <div class="col col-md-6 col-lg-5 polaroid-md d-none d-md-block">
                       <span class="paper-clip"></span>
                       <?xml version="1.0" encoding="UTF-8"?>
                       <svg id="logo" xmlns="http://www.w3.org/2000/svg" style="background-color: #202529; padding:30px 10px;" viewBox="0 0 496.56 167.03">
                         <path class="cls-1" d="m51.37,6.22c3.05,1.65,5.45,3.89,7.21,6.72,1.76,2.83,2.64,5.93,2.64,9.31,0,5.14-1.14,9.07-3.41,11.78-2.28,2.72-5.36,4.66-9.25,5.84v.44c9.62,2.2,14.43,8.48,14.43,18.83,0,3.67-.94,7.05-2.81,10.13s-4.41,5.53-7.6,7.32c-3.19,1.8-6.7,2.7-10.52,2.7H0V3.74h41.41c3.6,0,6.92.83,9.97,2.48Zm-30.12,26.49h12.66c1.54,0,2.84-.53,3.91-1.6,1.06-1.06,1.6-2.37,1.6-3.91v-1.87c0-1.54-.53-2.84-1.6-3.91-1.06-1.06-2.37-1.6-3.91-1.6h-12.66v12.88Zm0,29.07h13.99c1.54,0,2.84-.53,3.91-1.6,1.06-1.06,1.6-2.37,1.6-3.91v-1.98c0-1.54-.53-2.84-1.6-3.91-1.07-1.06-2.37-1.6-3.91-1.6h-13.99v12.99Z"/><path class="cls-1" d="m116.46,25.49c4.44,2.39,7.93,5.71,10.46,9.97,2.53,4.26,3.8,9.1,3.8,14.54v2.31c0,5.51-1.27,10.39-3.8,14.65-2.53,4.26-6.02,7.56-10.46,9.91-4.44,2.35-9.42,3.52-14.92,3.52h-3.52c-5.51,0-10.48-1.19-14.92-3.58-4.44-2.38-7.93-5.71-10.46-9.97-2.53-4.26-3.8-9.1-3.8-14.54v-2.31c0-5.43,1.27-10.28,3.8-14.54,2.53-4.26,6.02-7.58,10.46-9.97,4.44-2.38,9.42-3.58,14.92-3.58h3.52c5.51,0,10.48,1.19,14.92,3.58Zm-22.08,12c-1.47,1.51-2.2,3.32-2.2,5.45v16.41c0,2.13.73,3.95,2.2,5.45,1.47,1.51,3.27,2.26,5.4,2.26s3.93-.75,5.4-2.26c1.47-1.5,2.2-3.32,2.2-5.45v-16.41c0-2.13-.73-3.95-2.2-5.45-1.47-1.5-3.27-2.26-5.4-2.26s-3.93.75-5.4,2.26Z"/><path class="cls-1" d="m186.17,24.12c2.53,1.47,4.53,3.47,6,6,1.47,2.53,2.2,5.31,2.2,8.31v40.86h-21.81v-35.24c0-1.83-.57-3.39-1.71-4.68-1.14-1.28-2.52-1.93-4.13-1.93s-2.99.64-4.13,1.93c-1.14,1.29-1.71,2.85-1.71,4.68v35.24h-21.81V23.02h16.41l2.2,8.15c4.04-6.17,9.73-9.25,17.07-9.25h3.08c3.01,0,5.78.73,8.31,2.2Z"/><path class="cls-1" d="m242.83,79.29l-1.98-6.5c-4.04,5.07-8.77,7.6-14.21,7.6-4.55,0-8.64-1.06-12.28-3.19-3.63-2.13-6.5-5.34-8.59-9.64-2.09-4.3-3.14-9.56-3.14-15.8v-1.21c0-6.24.94-11.51,2.81-15.8,1.87-4.29,4.4-7.51,7.6-9.64,3.19-2.13,6.81-3.19,10.85-3.19,6.9,0,11.75,2.31,14.54,6.94V0h21.8v79.29h-17.4Zm-16.08-41.35c-1.32,1.51-1.98,3.32-1.98,5.45v15.97c0,2.13.66,3.95,1.98,5.45,1.32,1.51,2.94,2.26,4.85,2.26s3.52-.75,4.85-2.26c1.32-1.5,1.98-3.32,1.98-5.45v-15.97c0-2.13-.66-3.95-1.98-5.45-1.32-1.5-2.94-2.26-4.85-2.26s-3.52.75-4.85,2.26Z"/><path class="cls-1" d="m52.59,92.64c3.19,1.58,5.78,3.78,7.76,6.61,1.98,2.83,2.97,6.08,2.97,9.75,0,2.64-.61,5.25-1.82,7.82-1.21,2.57-2.85,4.77-4.9,6.61-2.06,1.84-4.33,2.97-6.83,3.41v.55c4.04,1.25,7.07,3.58,9.09,6.99,2.02,3.41,3.03,7.54,3.03,12.39,0,3.45.33,6.41.99,8.87.66,2.46,2.2,4.02,4.63,4.68v4.51c-3.38,1.39-7.78,2.09-13.22,2.09s-9.1-1.08-11.67-3.25c-2.57-2.16-3.85-5.82-3.85-10.96,0-4.85-.61-8.76-1.82-11.73-1.21-2.97-3.87-4.46-7.98-4.46h-6.39v29.29H0v-75.55h42.4c3.6,0,6.99.79,10.19,2.37Zm-30.01,27.04h11.67c1.54,0,2.84-.53,3.91-1.6,1.06-1.06,1.6-2.37,1.6-3.91v-1.1c0-1.54-.53-2.84-1.6-3.91-1.07-1.06-2.37-1.6-3.91-1.6h-11.67v12.11Z"/><path class="cls-1" d="m119.21,111.69c4.07,2.17,7.19,5.16,9.36,8.98,2.16,3.82,3.25,8.19,3.25,13.1v6.83h-36.67v5.29c0,2.5.79,4.41,2.37,5.73,1.58,1.32,3.62,1.98,6.11,1.98s4.53-.79,5.89-2.37c1.36-1.58,2.04-3.76,2.04-6.55h20.15c0,4.18-1.08,7.97-3.25,11.34-2.17,3.38-5.32,6.04-9.47,7.98-4.15,1.94-9.05,2.92-14.7,2.92h-1.65c-5.87,0-11.14-1.08-15.8-3.25-4.66-2.16-8.33-5.32-11.01-9.47-2.68-4.15-4.02-9.09-4.02-14.81v-3.41c0-5.73,1.27-10.66,3.8-14.81,2.53-4.15,6.07-7.3,10.63-9.47,4.55-2.16,9.76-3.25,15.64-3.25h2.75c5.65,0,10.52,1.08,14.59,3.25Zm-21.86,12.33c-1.47,1.51-2.2,3.32-2.2,5.45v1.54h15.2v-1.54c0-2.13-.73-3.95-2.2-5.45-1.47-1.5-3.27-2.26-5.4-2.26s-3.93.75-5.4,2.26Z"/><path class="cls-1" d="m196.68,109.54l-18.39,56.27h-25.22l-18.17-56.27h23.24l8.26,32.16h.77l8.26-32.16h21.25Z"/><path class="cls-1" d="m223.78,102.28h-21.7v-15.75h21.7v15.75Zm0,63.54h-21.7v-56.16h21.7v56.16Z"/><path class="cls-1" d="m273.61,110.15c3.71,1.14,6.81,2.85,9.31,5.12,2.5,2.28,3.74,5.03,3.74,8.26,0,.66-.04,1.27-.11,1.82-.07.55-.11.9-.11,1.05h-18.06c0-1.76-.79-3.03-2.37-3.8-1.58-.77-3.36-1.16-5.34-1.16-5.43,0-8.15,1.06-8.15,3.19,0,1.32.83,2.22,2.48,2.7,1.65.48,4.39.94,8.2,1.38,4.99.59,9.12,1.32,12.39,2.2,3.27.88,6.13,2.59,8.59,5.12,2.46,2.53,3.69,6.22,3.69,11.07,0,6.9-2.52,11.93-7.54,15.09-5.03,3.16-11.22,4.74-18.56,4.74h-5.73c-4.11,0-8.02-.64-11.73-1.93-3.71-1.28-6.74-3.25-9.09-5.89-2.35-2.64-3.52-5.87-3.52-9.69v-.99c0-.44.04-.77.11-.99h17.84v.44c0,2.13.95,3.62,2.86,4.46,1.91.84,4.11,1.27,6.61,1.27,2.2,0,4.31-.22,6.33-.66,2.02-.44,3.03-1.36,3.03-2.75s-.84-2.37-2.53-2.92c-1.69-.55-4.48-1.12-8.37-1.71-4.7-.59-8.7-1.36-12-2.31-3.3-.95-6.15-2.7-8.53-5.23-2.39-2.53-3.58-6.07-3.58-10.63,0-4.26,1.3-7.8,3.91-10.63,2.61-2.83,5.89-4.92,9.86-6.28,3.96-1.36,8-2.04,12.11-2.04h3.41c3.52,0,7.14.57,10.85,1.71Z"/><path class="cls-1" d="m318.04,102.28h-21.7v-15.75h21.7v15.75Zm0,63.54h-21.7v-56.16h21.7v56.16Z"/><path class="cls-1" d="m354.05,109.54h13.22v15.64h-13.22v20.81c0,2.94.57,4.94,1.71,6,1.14,1.06,2.66,1.6,4.57,1.6.88,0,2.04-.13,3.47-.39,1.43-.26,2.55-.57,3.36-.94v12.33c-1.69.73-4.04,1.32-7.05,1.76-3.01.44-5.58.66-7.71.66-6.46,0-11.44-1.18-14.92-3.52-3.49-2.35-5.23-6.35-5.23-12v-26.32h-6.17v-15.64h7.05l7.6-17.95h13.33v17.95Z"/><path class="cls-1" d="m420.07,111.69c4.07,2.17,7.19,5.16,9.36,8.98,2.16,3.82,3.25,8.19,3.25,13.1v6.83h-36.67v5.29c0,2.5.79,4.41,2.37,5.73,1.58,1.32,3.62,1.98,6.11,1.98s4.53-.79,5.89-2.37c1.36-1.58,2.04-3.76,2.04-6.55h20.15c0,4.18-1.08,7.97-3.25,11.34-2.17,3.38-5.32,6.04-9.47,7.98-4.15,1.94-9.05,2.92-14.7,2.92h-1.65c-5.87,0-11.14-1.08-15.8-3.25-4.66-2.16-8.33-5.32-11.01-9.47-2.68-4.15-4.02-9.09-4.02-14.81v-3.41c0-5.73,1.27-10.66,3.8-14.81,2.53-4.15,6.07-7.3,10.63-9.47,4.55-2.16,9.76-3.25,15.64-3.25h2.75c5.65,0,10.52,1.08,14.59,3.25Zm-21.86,12.33c-1.47,1.51-2.2,3.32-2.2,5.45v1.54h15.2v-1.54c0-2.13-.73-3.95-2.2-5.45-1.47-1.5-3.27-2.26-5.4-2.26s-3.93.75-5.4,2.26Z"/><path class="cls-1" d="m479.16,165.82l-1.98-6.5c-4.04,5.07-8.77,7.6-14.21,7.6-4.55,0-8.64-1.06-12.28-3.19-3.63-2.13-6.5-5.34-8.59-9.64-2.09-4.3-3.14-9.56-3.14-15.8v-1.21c0-6.24.94-11.51,2.81-15.8,1.87-4.29,4.4-7.51,7.6-9.64,3.19-2.13,6.81-3.19,10.85-3.19,6.9,0,11.75,2.31,14.54,6.94v-28.85h21.8v79.29h-17.4Zm-16.08-41.35c-1.32,1.51-1.98,3.32-1.98,5.45v15.97c0,2.13.66,3.95,1.98,5.45,1.32,1.51,2.94,2.26,4.85,2.26s3.52-.75,4.85-2.26c1.32-1.5,1.98-3.32,1.98-5.45v-15.97c0-2.13-.66-3.95-1.98-5.45-1.32-1.5-2.94-2.26-4.85-2.26s-3.52.75-4.85,2.26Z"/></svg>
-                      </div>
-                      <p class="mt-5">Bond Revisited is a James Bond podcast I did with longtime YouTube collaborator <a href="https://www.youtube.com/@honestom23" target="_blank"><strong>honestom23</strong></a> where we…revisited the James Bond films - who would have thought it?</p>
+                    </div>
+                    <div class="col col-md-6 col-lg-5 polaroid-sm d-block d-md-none">
+                      <span class="paper-clip"></span>
+                      <?xml version="1.0" encoding="UTF-8"?>
+                      <svg id="logo" xmlns="http://www.w3.org/2000/svg" style="background-color: #202529; padding:30px 10px;" viewBox="0 0 496.56 167.03">
+                        <path class="cls-1" d="m51.37,6.22c3.05,1.65,5.45,3.89,7.21,6.72,1.76,2.83,2.64,5.93,2.64,9.31,0,5.14-1.14,9.07-3.41,11.78-2.28,2.72-5.36,4.66-9.25,5.84v.44c9.62,2.2,14.43,8.48,14.43,18.83,0,3.67-.94,7.05-2.81,10.13s-4.41,5.53-7.6,7.32c-3.19,1.8-6.7,2.7-10.52,2.7H0V3.74h41.41c3.6,0,6.92.83,9.97,2.48Zm-30.12,26.49h12.66c1.54,0,2.84-.53,3.91-1.6,1.06-1.06,1.6-2.37,1.6-3.91v-1.87c0-1.54-.53-2.84-1.6-3.91-1.06-1.06-2.37-1.6-3.91-1.6h-12.66v12.88Zm0,29.07h13.99c1.54,0,2.84-.53,3.91-1.6,1.06-1.06,1.6-2.37,1.6-3.91v-1.98c0-1.54-.53-2.84-1.6-3.91-1.07-1.06-2.37-1.6-3.91-1.6h-13.99v12.99Z"/><path class="cls-1" d="m116.46,25.49c4.44,2.39,7.93,5.71,10.46,9.97,2.53,4.26,3.8,9.1,3.8,14.54v2.31c0,5.51-1.27,10.39-3.8,14.65-2.53,4.26-6.02,7.56-10.46,9.91-4.44,2.35-9.42,3.52-14.92,3.52h-3.52c-5.51,0-10.48-1.19-14.92-3.58-4.44-2.38-7.93-5.71-10.46-9.97-2.53-4.26-3.8-9.1-3.8-14.54v-2.31c0-5.43,1.27-10.28,3.8-14.54,2.53-4.26,6.02-7.58,10.46-9.97,4.44-2.38,9.42-3.58,14.92-3.58h3.52c5.51,0,10.48,1.19,14.92,3.58Zm-22.08,12c-1.47,1.51-2.2,3.32-2.2,5.45v16.41c0,2.13.73,3.95,2.2,5.45,1.47,1.51,3.27,2.26,5.4,2.26s3.93-.75,5.4-2.26c1.47-1.5,2.2-3.32,2.2-5.45v-16.41c0-2.13-.73-3.95-2.2-5.45-1.47-1.5-3.27-2.26-5.4-2.26s-3.93.75-5.4,2.26Z"/><path class="cls-1" d="m186.17,24.12c2.53,1.47,4.53,3.47,6,6,1.47,2.53,2.2,5.31,2.2,8.31v40.86h-21.81v-35.24c0-1.83-.57-3.39-1.71-4.68-1.14-1.28-2.52-1.93-4.13-1.93s-2.99.64-4.13,1.93c-1.14,1.29-1.71,2.85-1.71,4.68v35.24h-21.81V23.02h16.41l2.2,8.15c4.04-6.17,9.73-9.25,17.07-9.25h3.08c3.01,0,5.78.73,8.31,2.2Z"/><path class="cls-1" d="m242.83,79.29l-1.98-6.5c-4.04,5.07-8.77,7.6-14.21,7.6-4.55,0-8.64-1.06-12.28-3.19-3.63-2.13-6.5-5.34-8.59-9.64-2.09-4.3-3.14-9.56-3.14-15.8v-1.21c0-6.24.94-11.51,2.81-15.8,1.87-4.29,4.4-7.51,7.6-9.64,3.19-2.13,6.81-3.19,10.85-3.19,6.9,0,11.75,2.31,14.54,6.94V0h21.8v79.29h-17.4Zm-16.08-41.35c-1.32,1.51-1.98,3.32-1.98,5.45v15.97c0,2.13.66,3.95,1.98,5.45,1.32,1.51,2.94,2.26,4.85,2.26s3.52-.75,4.85-2.26c1.32-1.5,1.98-3.32,1.98-5.45v-15.97c0-2.13-.66-3.95-1.98-5.45-1.32-1.5-2.94-2.26-4.85-2.26s-3.52.75-4.85,2.26Z"/><path class="cls-1" d="m52.59,92.64c3.19,1.58,5.78,3.78,7.76,6.61,1.98,2.83,2.97,6.08,2.97,9.75,0,2.64-.61,5.25-1.82,7.82-1.21,2.57-2.85,4.77-4.9,6.61-2.06,1.84-4.33,2.97-6.83,3.41v.55c4.04,1.25,7.07,3.58,9.09,6.99,2.02,3.41,3.03,7.54,3.03,12.39,0,3.45.33,6.41.99,8.87.66,2.46,2.2,4.02,4.63,4.68v4.51c-3.38,1.39-7.78,2.09-13.22,2.09s-9.1-1.08-11.67-3.25c-2.57-2.16-3.85-5.82-3.85-10.96,0-4.85-.61-8.76-1.82-11.73-1.21-2.97-3.87-4.46-7.98-4.46h-6.39v29.29H0v-75.55h42.4c3.6,0,6.99.79,10.19,2.37Zm-30.01,27.04h11.67c1.54,0,2.84-.53,3.91-1.6,1.06-1.06,1.6-2.37,1.6-3.91v-1.1c0-1.54-.53-2.84-1.6-3.91-1.07-1.06-2.37-1.6-3.91-1.6h-11.67v12.11Z"/><path class="cls-1" d="m119.21,111.69c4.07,2.17,7.19,5.16,9.36,8.98,2.16,3.82,3.25,8.19,3.25,13.1v6.83h-36.67v5.29c0,2.5.79,4.41,2.37,5.73,1.58,1.32,3.62,1.98,6.11,1.98s4.53-.79,5.89-2.37c1.36-1.58,2.04-3.76,2.04-6.55h20.15c0,4.18-1.08,7.97-3.25,11.34-2.17,3.38-5.32,6.04-9.47,7.98-4.15,1.94-9.05,2.92-14.7,2.92h-1.65c-5.87,0-11.14-1.08-15.8-3.25-4.66-2.16-8.33-5.32-11.01-9.47-2.68-4.15-4.02-9.09-4.02-14.81v-3.41c0-5.73,1.27-10.66,3.8-14.81,2.53-4.15,6.07-7.3,10.63-9.47,4.55-2.16,9.76-3.25,15.64-3.25h2.75c5.65,0,10.52,1.08,14.59,3.25Zm-21.86,12.33c-1.47,1.51-2.2,3.32-2.2,5.45v1.54h15.2v-1.54c0-2.13-.73-3.95-2.2-5.45-1.47-1.5-3.27-2.26-5.4-2.26s-3.93.75-5.4,2.26Z"/><path class="cls-1" d="m196.68,109.54l-18.39,56.27h-25.22l-18.17-56.27h23.24l8.26,32.16h.77l8.26-32.16h21.25Z"/><path class="cls-1" d="m223.78,102.28h-21.7v-15.75h21.7v15.75Zm0,63.54h-21.7v-56.16h21.7v56.16Z"/><path class="cls-1" d="m273.61,110.15c3.71,1.14,6.81,2.85,9.31,5.12,2.5,2.28,3.74,5.03,3.74,8.26,0,.66-.04,1.27-.11,1.82-.07.55-.11.9-.11,1.05h-18.06c0-1.76-.79-3.03-2.37-3.8-1.58-.77-3.36-1.16-5.34-1.16-5.43,0-8.15,1.06-8.15,3.19,0,1.32.83,2.22,2.48,2.7,1.65.48,4.39.94,8.2,1.38,4.99.59,9.12,1.32,12.39,2.2,3.27.88,6.13,2.59,8.59,5.12,2.46,2.53,3.69,6.22,3.69,11.07,0,6.9-2.52,11.93-7.54,15.09-5.03,3.16-11.22,4.74-18.56,4.74h-5.73c-4.11,0-8.02-.64-11.73-1.93-3.71-1.28-6.74-3.25-9.09-5.89-2.35-2.64-3.52-5.87-3.52-9.69v-.99c0-.44.04-.77.11-.99h17.84v.44c0,2.13.95,3.62,2.86,4.46,1.91.84,4.11,1.27,6.61,1.27,2.2,0,4.31-.22,6.33-.66,2.02-.44,3.03-1.36,3.03-2.75s-.84-2.37-2.53-2.92c-1.69-.55-4.48-1.12-8.37-1.71-4.7-.59-8.7-1.36-12-2.31-3.3-.95-6.15-2.7-8.53-5.23-2.39-2.53-3.58-6.07-3.58-10.63,0-4.26,1.3-7.8,3.91-10.63,2.61-2.83,5.89-4.92,9.86-6.28,3.96-1.36,8-2.04,12.11-2.04h3.41c3.52,0,7.14.57,10.85,1.71Z"/><path class="cls-1" d="m318.04,102.28h-21.7v-15.75h21.7v15.75Zm0,63.54h-21.7v-56.16h21.7v56.16Z"/><path class="cls-1" d="m354.05,109.54h13.22v15.64h-13.22v20.81c0,2.94.57,4.94,1.71,6,1.14,1.06,2.66,1.6,4.57,1.6.88,0,2.04-.13,3.47-.39,1.43-.26,2.55-.57,3.36-.94v12.33c-1.69.73-4.04,1.32-7.05,1.76-3.01.44-5.58.66-7.71.66-6.46,0-11.44-1.18-14.92-3.52-3.49-2.35-5.23-6.35-5.23-12v-26.32h-6.17v-15.64h7.05l7.6-17.95h13.33v17.95Z"/><path class="cls-1" d="m420.07,111.69c4.07,2.17,7.19,5.16,9.36,8.98,2.16,3.82,3.25,8.19,3.25,13.1v6.83h-36.67v5.29c0,2.5.79,4.41,2.37,5.73,1.58,1.32,3.62,1.98,6.11,1.98s4.53-.79,5.89-2.37c1.36-1.58,2.04-3.76,2.04-6.55h20.15c0,4.18-1.08,7.97-3.25,11.34-2.17,3.38-5.32,6.04-9.47,7.98-4.15,1.94-9.05,2.92-14.7,2.92h-1.65c-5.87,0-11.14-1.08-15.8-3.25-4.66-2.16-8.33-5.32-11.01-9.47-2.68-4.15-4.02-9.09-4.02-14.81v-3.41c0-5.73,1.27-10.66,3.8-14.81,2.53-4.15,6.07-7.3,10.63-9.47,4.55-2.16,9.76-3.25,15.64-3.25h2.75c5.65,0,10.52,1.08,14.59,3.25Zm-21.86,12.33c-1.47,1.51-2.2,3.32-2.2,5.45v1.54h15.2v-1.54c0-2.13-.73-3.95-2.2-5.45-1.47-1.5-3.27-2.26-5.4-2.26s-3.93.75-5.4,2.26Z"/><path class="cls-1" d="m479.16,165.82l-1.98-6.5c-4.04,5.07-8.77,7.6-14.21,7.6-4.55,0-8.64-1.06-12.28-3.19-3.63-2.13-6.5-5.34-8.59-9.64-2.09-4.3-3.14-9.56-3.14-15.8v-1.21c0-6.24.94-11.51,2.81-15.8,1.87-4.29,4.4-7.51,7.6-9.64,3.19-2.13,6.81-3.19,10.85-3.19,6.9,0,11.75,2.31,14.54,6.94v-28.85h21.8v79.29h-17.4Zm-16.08-41.35c-1.32,1.51-1.98,3.32-1.98,5.45v15.97c0,2.13.66,3.95,1.98,5.45,1.32,1.51,2.94,2.26,4.85,2.26s3.52-.75,4.85-2.26c1.32-1.5,1.98-3.32,1.98-5.45v-15.97c0-2.13-.66-3.95-1.98-5.45-1.32-1.5-2.94-2.26-4.85-2.26s-3.52.75-4.85,2.26Z"/></svg>
+                    </div>
+                      <p class="d-block d-md-none mt-3">Bond Revisited is a James Bond podcast I did with longtime YouTube collaborator <a href="https://www.youtube.com/@honestom23" target="_blank"><strong>honestom23</strong></a> where we…revisited the James Bond films - who would have thought it?</p>
+                      <p class="d-none d-md-block mt-5">Bond Revisited is a James Bond podcast I did with longtime YouTube collaborator <a href="https://www.youtube.com/@honestom23" target="_blank"><strong>honestom23</strong></a> where we…revisited the James Bond films - who would have thought it?</p>
                       <p>Both being big Bond fans, Tom came to me with the idea of doing this as a project together to work our way through all 25 films in the series, reviewing and ranking them as we go.</p>
                       <p>It’s something that neither of us had properly done up until that point - definitively creating a full list of the films ranked from best to worst, watching them from <i>Dr. No</i> all the way through to <i>No Time to Die</i>. We started the podcast with an initial top five and bottom five list as something to compare against and see just how far our opinions changed by the end of it (and boy, some of them <i>most certainly</i> did).</p>
                       <p>So if you too are a 007 fan, join Tom and I in revisiting Bond as we discuss our way through each film individually and celebrate the long and varied history of cinema's most famous secret agent...</p>
@@ -424,13 +490,13 @@ title: "Bond Revisited"
                           <path d="M2190 2785c-86 42-39-40-228 5-113 27-211-183-302-235 149-11 307-32 450-91 31 78-114 75 80 321zm-139-264c-43 44-217 71-284 66 84 48 277 24 284-66zm-92 220c-27-22-43-54-34-88-20 8-66 8-96 0 37 44 85 92 130 88zm535-43c91-29 39-96 124-158 78-57 50-249 77-345-131 81-278 155-423 210 32 78 194-20 222 293zm-124-290c83-27 212-87 268-125-35 73-183 162-268 125zm259-64c3 57-2 140-38 167-5-31-12-78-42-96 19-7 64-44 80-71z"/>
                         </g>
                       </svg>
-                      <div class="text-center mt-3">
-                        <ol class="links d-inline-block text-start">
-                          <li class="pb-3"><a class="h2" href="https://open.spotify.com/show/4U9WLT4mn3SYCXILf45uwc" target="_blank"><i class="fa-brands fa-spotify fa-fw "></i> Spotify</a></li>
-                          <li class="pb-3"><a class="h2" href="https://podcasts.apple.com/gb/podcast/bond-revisited/id1665782252" target="_blank"><i class="fa-brands fa-apple fa-fw "></i> Apple Podcasts</a></li>
-                          <li class="pb-3"><a class="h2" href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2JvbmQtcmV2aXNpdGVkLXBvZGNhc3Q" target="_blank"><i class="fa-brands fa-google fa-fw "></i> Google Podcasts</a></li>
-                          <li><a class="h2" href="https://www.youtube.com/@bondrevisited" target="_blank"><i class="fa-brands fa-youtube fa-fw "></i> YouTube</a></li>
-                        </ol>
+                      <div class="mt-3 d-flex justify-content-center">
+                        <div class="links text-center text-md-start">
+                          <div class="pb-3"><a class="h2 pb-3" href="https://open.spotify.com/show/4U9WLT4mn3SYCXILf45uwc" target="_blank"><i class="fa-brands fa-spotify fa-fw "></i> Spotify</a></div>
+                          <div class="pb-3"><a class="h2 pb-3" href="https://podcasts.apple.com/gb/podcast/bond-revisited/id1665782252" target="_blank"><i class="fa-brands fa-apple fa-fw "></i> Apple Podcasts</a></div>
+                          <div class="pb-3"><a class="h2 pb-3" href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2JvbmQtcmV2aXNpdGVkLXBvZGNhc3Q" target="_blank"><i class="fa-brands fa-google fa-fw "></i> Google Podcasts</a></div>
+                          <div><a class="h2" href="https://www.youtube.com/@bondrevisited" target="_blank"><i class="fa-brands fa-youtube fa-fw "></i> YouTube</a></div>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -754,7 +820,7 @@ title: "Bond Revisited"
                     </div>
                   </div>
                 </div>
-                <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <div class="nav flex-column nav-pills d-none d-md-flex" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                   <button class="nav-link active" id="v-pills-intro-tab" data-bs-toggle="pill" data-bs-target="#v-pills-intro" type="button" role="tab" aria-controls="v-pills-intro" aria-selected="false"><div class="button-inner">ABOUT</div></button>
                   <button class="nav-link" id="v-pills-episodes-tab" data-bs-toggle="pill" data-bs-target="#v-pills-episodes" type="button" role="tab" aria-controls="v-pills-episodes" aria-selected="true"><div class="button-inner">EPISODES</div></button>
                   <button class="nav-link" id="v-pills-more-tab" data-bs-toggle="pill" data-bs-target="#v-pills-more" type="button" role="tab" aria-controls="v-pills-more" aria-selected="false"><div class="button-inner">MORE</div></button>
