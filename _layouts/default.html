@@ -28,11 +28,15 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title"><img src="{{site.url}}/assets/images/logo.png" class="w-100" alt="Muckluck Logo" /></a>
-  {% include menu.html menu=pages %}
+  <a href="{{ "/" | relative_url }}" class="title"><img src="{{site.url}}/assets/images/muckluck-logo.png" alt="Muckluck Logo" /></a>
 </header>
 
+<div class="feed">
+{% include menu.html menu=pages %}
+
 {{ content }}
+
+</div>
 
 {% if site.external %}
 <footer>
