@@ -29,11 +29,10 @@
 
 <header>
   <a href="{{ "/" | relative_url }}" class="title"><img src="{{site.url}}/assets/images/muckluck-logo.png" alt="Muckluck Logo" /></a>
-  {% include menu.html menu=pages %}
 </header>
 
 <div class="feed">
-
+{% include menu.html menu=pages %}
 {{ content }}
 
 </div>
