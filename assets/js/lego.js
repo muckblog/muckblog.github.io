@@ -1,7 +1,7 @@
 var isDown = false;
 let currentDiv;
 
-const div = document.getElementById("bg-lego-1");
+const div = document.getElementByClassName("bg-lego");
 
 const mySounds = [ 'lego-drop1', 'lego-drop2', 'lego-drop3', 'lego-drop4' ];
 
