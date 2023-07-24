@@ -35,13 +35,6 @@
     <img src="{{site.url}}/assets/images/lego-1.png" />
 </div>
 
-<!-- Lego Sounds -->
-<audio id="lego-pickup" src="{{site.url}}/assets/sounds/lego-pickup.mp3" type="audio/mp3">
-<audio id="lego-drop1" src="{{site.url}}/assets/sounds/lego-drop1.mp3" type="audio/mp3">
-<audio id="lego-drop2" src="{{site.url}}/assets/sounds/lego-drop2.mp3" type="audio/mp3">
-<audio id="lego-drop3" src="{{site.url}}/assets/sounds/lego-drop3.mp3" type="audio/mp3">
-<audio id="lego-drop4" src="{{site.url}}/assets/sounds/lego-drop4.mp3" type="audio/mp3">
-
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -75,7 +68,14 @@
 </header>
 
 <div class="feed">
-{{ content }}
+  <!-- Lego Sounds -->
+  <audio id="lego-pickup" src="{{site.url}}/assets/sounds/lego-pickup.mp3" type="audio/mp3">
+  <audio id="lego-drop1" src="{{site.url}}/assets/sounds/lego-drop1.mp3" type="audio/mp3">
+  <audio id="lego-drop2" src="{{site.url}}/assets/sounds/lego-drop2.mp3" type="audio/mp3">
+  <audio id="lego-drop3" src="{{site.url}}/assets/sounds/lego-drop3.mp3" type="audio/mp3">
+  <audio id="lego-drop4" src="{{site.url}}/assets/sounds/lego-drop4.mp3" type="audio/mp3">
+
+  {{ content }}
 
 </div>
 
@@ -92,6 +92,8 @@ let currentDiv;
 
 const div = document.getElementById("bg-lego-1");
 
+const mySounds = [ 'lego-drop1', 'lego-drop2', 'lego-drop3', 'lego-drop4' ];
+
 div.addEventListener('mousedown', function(e) {
       document.getElementById('lego-pickup').play();
       isDown = true;
@@ -105,13 +107,7 @@ div.addEventListener('mousedown', function(e) {
 
 document.addEventListener('mouseup', function() {
     isDown = false;
-    mySounds = [ 'lego-drop1', 'lego-drop2', 'lego-drop3', 'lego-drop4' ]
-    function randomSound() {
-      var index = Math.floor(Math.random() * 1000) % mySounds.length;
-      var id = mySounds[index];
-      var audioElement = document.getElementById(id);
-      audioElement.play();
-  }
+    randomSound();
 }, true);
 
 document.addEventListener('mousemove', function(event) {
@@ -126,6 +122,13 @@ document.addEventListener('mousemove', function(event) {
         currentDiv.style.top  = (mousePosition.y + offset[1]) + 'px';
     }
 }, true);
+
+function randomSound() {
+      var index = Math.floor(Math.random() * 1000) % mySounds.length;
+      var id = mySounds[index];
+      var audioElement = document.getElementById(id);
+      audioElement.play();
+};
 </script>
 
 </html>
