@@ -52,6 +52,7 @@
 <script defer src="{{ "/assets/katex/katex.min.js" | relative_url }}"></script>
 <script defer src="{{ "/assets/katex/contrib/auto-render.min.js" | relative_url }}" onload="renderMathInElement(document.body)"></script>
 {% endif %}
+<script defer src="{{ "/assets/js/lego.js" | relative_url }}"></script>
 {% if site.comments.disqus_shortname and page.layout == "post" %}<script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>{% endif %}
 {% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
@@ -69,11 +70,11 @@
 
 <div class="feed">
   <!-- Lego Sounds -->
-  <!-- <audio id="lego-pickup" src="{{site.url}}/assets/sounds/lego-pickup.mp3" type="audio/mp3">
+  <audio id="lego-pickup" src="{{site.url}}/assets/sounds/lego-pickup.mp3" type="audio/mp3">
   <audio id="lego-drop1" src="{{site.url}}/assets/sounds/lego-drop1.mp3" type="audio/mp3">
   <audio id="lego-drop2" src="{{site.url}}/assets/sounds/lego-drop2.mp3" type="audio/mp3">
   <audio id="lego-drop3" src="{{site.url}}/assets/sounds/lego-drop3.mp3" type="audio/mp3">
-  <audio id="lego-drop4" src="{{site.url}}/assets/sounds/lego-drop4.mp3" type="audio/mp3"> -->
+  <audio id="lego-drop4" src="{{site.url}}/assets/sounds/lego-drop4.mp3" type="audio/mp3">
 
   {{ content }}
 
@@ -85,50 +86,5 @@
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
-
-<!-- <script>
-var isDown = false;
-let currentDiv;
-
-const div = document.getElementById("bg-lego-1");
-
-const mySounds = [ 'lego-drop1', 'lego-drop2', 'lego-drop3', 'lego-drop4' ];
-
-div.addEventListener('mousedown', function(e) {
-      document.getElementById('lego-pickup').play();
-      isDown = true;
-      const offset = [
-          div.offsetLeft - e.clientX,
-          div.offsetTop - e.clientY
-      ];
-      div.setAttribute('data-offset', JSON.stringify(offset));
-      currentDiv = div;
-}, true);
-
-document.addEventListener('mouseup', function() {
-    isDown = false;
-    randomSound();
-}, true);
-
-document.addEventListener('mousemove', function(event) {
-    event.preventDefault();
-    if (isDown && currentDiv) {
-    const mousePosition = {    
-            x : event.clientX,
-            y : event.clientY    
-        };
-        const offset = JSON.parse(currentDiv.getAttribute('data-offset'));
-        currentDiv.style.left = (mousePosition.x + offset[0]) + 'px';
-        currentDiv.style.top  = (mousePosition.y + offset[1]) + 'px';
-    }
-}, true);
-
-function randomSound() {
-      var index = Math.floor(Math.random() * 1000) % mySounds.length;
-      var id = mySounds[index];
-      var audioElement = document.getElementById(id);
-      audioElement.play();
-};
-</script> -->
 
 </html>
