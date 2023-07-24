@@ -22,11 +22,6 @@ body > header, body > footer
   //background: transparent
   color: $dark
 
-.bg-element
-  position: absolute
-  filter: drop-shadow(2px 2px 8px rgba(0, 0, 0, 0.2))
-  display:none
-
 @media (min-width: 32em)
   body > header, body > article, body > footer, .feed
     padding: 1.75em calc(22% - 6em)
@@ -39,9 +34,9 @@ body > header, body > footer
   .bg-element
     display: none
 
-@media (min-height: 675em)
+@media (max-height: 675em)
   .bg-element
-    display: block
+    display: none
 
 /* @media (prefers-color-scheme: dark)
   body, body > header, body > footer
