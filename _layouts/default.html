@@ -91,4 +91,18 @@
 </footer>
 {% endif %}
 
+<script>
+function hideDivs() {
+  const divsToHide = document.querySelectorAll(".bg-element");
+  const scrollHeight = document.documentElement.scrollHeight;
+
+  if (scrollHeight < 6000) {
+    divsToHide.forEach((div) => {
+      div.style.display = "none";
+    });
+  }
+}
+window.addEventListener("load", hideDivs);
+</script>
+
 </html>
