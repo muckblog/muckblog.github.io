@@ -19,7 +19,7 @@ Well it turns out it’s not actually that old, especially compared to the other
 
 Anyway I set up a Google Form and asked for all you lovely lot to send in suggestions to rebuild my list. And I now realise, almost four years later, that:
 
-a) I never shared any of the results
+a) I never shared any of the results  
 b) I mostly kinda forgot these suggestions existed and did my own thing
 
 Oops.
