@@ -58,7 +58,7 @@ And here’s Locque continuing his escape up through to another tunnel.
 
 Aside from the unusually gritty car kick Bond delivers to finally kill Locuqe, my favourite part of this chase as Locque drives away are the cuts back to poor ol’ Roger Moore who is struggling on foot up a particularly long set of stairs. The rev of the car engine interspersed with nothing but the quiet pitter-patter of Bond’s footsteps is just great. It was my number one priority to find those stairs and run up them. Well, for the most part anyway...
 
-{% include embed.html url="https://www.youtube.com/embed/57Dyn9D7M0" %}
+{% include embed.html url="https://www.youtube.com/embed/-57Dyn9D7M0" %}
 {% include embed.html url="https://www.youtube.com/embed/SXI6Ju-JxiY" %}
 
 It took about three attempts at this before we nailed the angle and got it lined up pretty closely. Three takes of going up and down up those stairs...in hot weather...in a jumper. Not my brightest idea. An American couple spotted me doing this and must have thought I just liked being recorded running up steps. At one point during filming they cheered me which was nice, though it did ruin the shot. Tourists, eh?
@@ -142,6 +142,7 @@ I tried to get an interview with the acclaimed Oscar-winning double-taking pigeo
 After Bond’s late night investigation of a secret laboratory, he ends up in a fight with Drax’s henchman Chang. They smash their way through the Venini glass shop and up to a clocktower where 007 eventually chucks him through a stained glass clock face, down onto an orchestra below. This is of course the famous Saint Mark’s Clocktower which is a beautiful building to look at. Unfortunately the clock face isn’t actually made of glass so this wasn’t very realistic, but having just seen a gondola turn into a hovercraft maybe I shouldn’t complain.
 
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR13-A.jpg)]({{site.url}}/assets/images/2024/02/MR13-A.jpg)
+[![Moonraker]({{site.url}}/assets/images/2024/02/MR13-A2.jpg)]({{site.url}}/assets/images/2024/02/MR13-A2.jpg)
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR13-B.jpg)]({{site.url}}/assets/images/2024/02/MR13-B.jpg)
 
 There’s one location I completely forgot to visit, despite the fact I’d researched ahead of time [exactly where it is](https://maps.app.goo.gl/8x43eT9u7DeiFGeB8) and included it on our rough itinerary plan. After Bond's embarrassing failure to show M and Sir Fredrick Gray Drax’s secret laboratory, he has a small, rather sweet little scene alone with M. Moonraker was Bernard Lee’s final appearance as M and I’d have loved to see the spot where he shows his faith in Bond and coyly gives him some ‘time off’ in Rio to keep investigating. Oh well, all the more reason to go back for another visit!
