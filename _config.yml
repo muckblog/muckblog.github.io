@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/c/Muckluck/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MrMuckluckable"}
   - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/muckluck"}
+  - {title: Discord, icon: discord, url: "https://discord.gg/9y6GwWmX28"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
