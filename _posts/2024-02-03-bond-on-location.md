@@ -11,9 +11,9 @@ James Bond is an international man of mystery. Oh no wait, that's Austin Powers.
 
 I mean just take a look [at this map](https://www.onthetracksof007.com/maps) for goodness sake.
 
-I never used to travel abroad when I was younger - the first time I left the UK was aged 14 in 2006 on a school trip to Ypres to learn about World War 1. And my first ever flight was only in 2016 on a measly short haul flight to Dublin. (Though to be fair I quickly made amends for that and flew eight hours all the way to Toronto for the next one.) It’s only really been in the last ten years or so that I’ve finally been in a position to travel more and experience different cultures, cuisines and langua- nah who cares about that, the important bit is I’ve got to see some James Bond filming locations!
+I never used to travel abroad when I was younger - the first time I left the UK was aged 14 in 2006 on a school trip to Ypres to learn about the First World War. And my first ever flight was only in 2016 on a measly short haul flight to Dublin. (Though to be fair I quickly made amends for that and flew eight hours all the way to Toronto for the next one.) It’s only really been in the last ten years or so that I’ve finally been in a position to travel more and experience different cultures, cuisines and langua- nah who cares about that, the important bit is I’ve got to see some James Bond filming locations!
 
-And now, having built up a few, I thought it’d be neat to make a blog post going over them and show some photos alongside the film reference. Don’t get me wrong there’s not a ton but hey, I’ll get to the likes of the Bahamas and Japan at some point perhaps...
+And now having built up a few, I thought it’d be neat to make a blog post going over them and show some photos alongside their film counterparts. Don’t get me wrong there’s not a ton but hey, I’ll get to the likes of the Bahamas and Japan at some point perhaps...
 
 ## London
 
@@ -61,9 +61,9 @@ Aside from the unusually gritty car kick Bond delivers to finally kill Locuqe, m
 {% include embed.html url="https://www.youtube.com/embed/-57Dyn9D7M0" %}
 {% include embed.html url="https://www.youtube.com/embed/SXI6Ju-JxiY" %}
 
-It took about three attempts at this before we nailed the angle and got it lined up pretty closely. Three takes of going up and down up those stairs...in hot weather...in a jumper. Not my brightest idea. An American couple spotted me doing this and must have thought I just liked being recorded running up steps. At one point during filming they cheered me which was nice, though it did ruin the shot. Tourists, eh?
+It took about three attempts at this before we nailed the angle and got it lined up pretty closely. Three takes of going up and down up those stairs...in hot weather...in a jumper. Not my brightest idea. An American couple spotted me doing this and must have thought I just liked being recorded running up steps. At one point during filming they cheered me on which was nice, though it did ruin the shot. Tourists, eh?
 
-There were most certainly a few other locations we walked around that I didn’t take photos of since the fortress isn’t huge. At least the parts accessible to the public anyway, there’s a whole side closed off which sadly is where the actual car kicking was filmed. As cool as it would have been to sneak through and find it, I didn’t fancy getting caught or, knowing me, falling off the cliff myself. I guess I just don’t have a head for heights.
+There were most certainly a few other locations we walked around that I didn’t take photos of since the fortress isn’t huge. At least the parts accessible to the public anyway, there’s a whole side closed off which sadly is where the actual car kicking was filmed. As cool as it would have been to sneak through and find it I didn’t fancy getting caught or, knowing me, falling off the cliff myself. I guess I just don’t have a head for heights.
 
 ## Venice
 
@@ -73,23 +73,27 @@ We visited towards the end of January which ended up being a brilliant time to g
 
 Venice is an excellent place for Bond locations because it features in not one, not two but three films. I’ll get the least interesting one out of the way first because I don’t think Bond was _actually_ there. From Russia with Love ends with Bond and Tatiana relaxing in a Venetian hotel, only to be attacked by a rather kicky Rosa Klebb. After Tatiana shoots her, the two head off for a smooch in a gondola underneath what’s referred to as the Bridge of Sighs, connected to the Doge’s Palace in Saint Mark’s Square.
 
+[![From Russia with Love]({{site.url}}/assets/images/2024/02/FRWL1-A.jpg)]({{site.url}}/assets/images/2024/02/FRWL1-A.jpg)
+[![From Russia with Love]({{site.url}}/assets/images/2024/02/FRWL1-B.jpg)]({{site.url}}/assets/images/2024/02/FRWL1-B.jpg)
+
 It’s a hard location to miss given it sits right next to one of the most visited spots in Venice, though for some reason I only chose to take a photo of it at night. (If you end up looking around the Doge’s Palace you can actually walk across it into the neighbouring prison cells.) In the film this scene is of course all rear projected so it’s certainly not the best example of a location but I felt obliged to include it.
 
-Next up is Moonraker - an entry I ranked as my sixth favourite because despite its general weirdness and erraticism it still manages to win me over with its odd charm. Roger Moore helps of course too. A decent twenty minutes of Moonraker is set in Venice and with that comes a ton of spots I had in mind to see for myself.
+Next up is Moonraker - an entry I ranked as my sixth favourite because despite its general weirdness and erraticism still manages to win me over with its odd charm. Roger Moore helps of course too. A decent twenty minutes of Moonraker is set in Venice and with that comes a ton of spots I had in mind to see for myself.
 
 I’ll keep this ordered chronologically through the film, but given I was dragging my other half around I didn’t want to sacrifice a huge amount of time hunting locations. So there’s a few I sadly missed or just didn’t think to take a photo of at the same angle, perhaps because it just felt a bit too obvious. For example Bond entering Saint Mark’s Square.
 
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR1-A.jpg)]({{site.url}}/assets/images/2024/02/MR1-A.jpg)
-[![Moonraker]({{site.url}}/assets/images/2024/02/MR1-B.jpg)]({{site.url}}/assets/images/2024/02/MR1-B.jpg)
 
 But rest assured Venice has changed very little architectually over the past 45 years - this opposite view of the spot from the terrace of Saint Mark’s Basilica demonstrates that.
+
+[![Moonraker]({{site.url}}/assets/images/2024/02/MR1-B.jpg)]({{site.url}}/assets/images/2024/02/MR1-B.jpg)
 
 Bond is on the hunt for Venini Glass and though I forgot to take a photo, this image from Google Maps shows it’s a real shop that is still there today just next to the basilica!
 
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR2-A.jpg)]({{site.url}}/assets/images/2024/02/MR2-A.jpg)
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR2-B.jpg)]({{site.url}}/assets/images/2024/02/MR2-B.jpg)
 
-Inside, he spots Dr. Goodhead snooping around and follows her through to a courtyard which is actually located at the [Conservatory of Music Benedetto Marcello](https://maps.app.goo.gl/NC6yepVRq6uYxdCSA) near to the Ponte dell'Accademia. Here Bond exits out of a doorway and you can see how the statue lines up.
+Inside, he spots Dr. Goodhead snooping around and follows her through to a courtyard which is actually located at the [Conservatory of Music Benedetto Marcello](https://maps.app.goo.gl/NC6yepVRq6uYxdCSA) near to the Ponte dell'Accademia. Here Bond exits out of a doorway and you can see how the statue lines up in the background.
 
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR3-A.jpg)]({{site.url}}/assets/images/2024/02/MR3-A.jpg)
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR3-B.jpg)]({{site.url}}/assets/images/2024/02/MR3-B.jpg)
@@ -149,7 +153,7 @@ There’s one location I completely forgot to visit, despite the fact I’d rese
 
 [![Moonraker]({{site.url}}/assets/images/2024/02/MR14-A.jpg)]({{site.url}}/assets/images/2024/02/MR14-A.jpg)
 
-Last up is Casino Royale, Daniel Craig’s first outing as Bond back in 2006. The final twenty minutes of the film is set mainly in Venice, after Bond resigns from MI6 and travels together with Vesper where she ultimately betrays him. Y’know, that bit that a lot of people forget about and feel like it’s a bit tacked on and weirdly paced. Personally I like the ending scenes set in Venice but I do admit it does feel a bit superfluous at times, two hours into the film already.
+Last up is Casino Royale, Daniel Craig’s first outing as Bond back in 2006. The final twenty minutes of the film is set mainly in Venice, after Bond resigns from MI6 and travels together with Vesper where she ultimately betrays him. Y’know, that bit that a lot of people forget about or feel like it’s a bit tacked on and weirdly paced. Personally I like the ending scenes set in Venice but I do admit it does feel a bit superfluous at times, two hours into the film already.
 
 Anyway once Bond realises that Vesper has stolen the poker winnings, he searches across a chaotic St. Mark’s Square and just about catches a glimpse of her red dress through the crowds.
 
@@ -171,7 +175,7 @@ Vesper eventually ends up meeting her contacts to hand over the money and would 
 [![Casino Royale]({{site.url}}/assets/images/2024/02/CR4-A.jpg)]({{site.url}}/assets/images/2024/02/CR4-A.jpg)
 [![Casino Royale]({{site.url}}/assets/images/2024/02/CR4-B.jpg)]({{site.url}}/assets/images/2024/02/CR4-B.jpg)
 
-At one point during the trip we took a vaporetto (water bus) along the Grand Canale and I hoped to spot the building that ends up collapsing and sinking underwater. Turns out that when they were doing the CGI for those shots, they completely replaced the facade of the building. It didn’t help that I was looking on the wrong side of the canal too. Later on when we were on a rooftop terrace admiring the views, I used the buildings either side of it to work out [where it would have been](https://maps.app.goo.gl/oZd2VQNssHJPqNv97) which you can just sort of make out in the photo below.
+At one point during the trip we took a vaporetto (water bus) along the Grand Canal and I hoped to spot the building that ends up collapsing and sinking underwater. Turns out that when they were doing the CGI for those shots, they completely replaced the facade of the building. It didn’t help that I was looking on the wrong side of the canal too. Later on when we were on a rooftop terrace admiring the views, I used the buildings either side of it to work out [where it would have been](https://maps.app.goo.gl/oZd2VQNssHJPqNv97) which you can just sort of make out in the photo below where the arrow is pointing.
 
 [![Casino Royale]({{site.url}}/assets/images/2024/02/CR5-A.jpg)]({{site.url}}/assets/images/2024/02/CR5-A.jpg)
 [![Casino Royale]({{site.url}}/assets/images/2024/02/CR5-B.jpg)]({{site.url}}/assets/images/2024/02/CR5-B.jpg)
