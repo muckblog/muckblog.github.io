@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/c/Muckluck/"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/MrMuckluckable"}
+  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/muck.blog"}
   - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/muckluck"}
   - {title: Discord, icon: discord, url: "https://discord.gg/9y6GwWmX28"}
 
