@@ -5,7 +5,7 @@ categories: update
 image: /assets/images/2025/08/PRAGUE-13.jpg
 ---
 
-Back in January I [uploaded a video quickly](https://www.youtube.com/watch?v=Ju7ihha5g-M) going over my then current attitude towards YouTube and general disillusionment with the whole thing. And would you look at that, six months have passed by already. 
+Back in January I [uploaded a video](https://www.youtube.com/watch?v=Ju7ihha5g-M) quickly going over my then current attitude towards YouTube and general disillusionment with the whole thing. And would you look at that, six months have passed by already. 
 
 <!-- readmore -->
 
