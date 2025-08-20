@@ -2,7 +2,7 @@
 title:  "Bond on Location"
 layout: post
 categories: james bond
-image: /assets/images/2024/02/PRAGUE-13.jpg
+image: /assets/images/2024/02/bond-on-location.jpg
 ---
 
 James Bond is an international man of mystery. Oh no wait, that's Austin Powers. Well the point still stands that 007 has visited an awful lot of countries and cities during his assignments the past 60 years. Which means for fans of the series there is no shortage of exotic filming locations across the world to follow in his footsteps. 
