@@ -65,7 +65,7 @@ As we went to leave the gift shop, I realised we’d stumbled across another loc
 [![The doorway]({{site.url}}/assets/images/2026/08/CHANTILLY-9.jpg)]({{site.url}}/assets/images/2026/08/CHANTILLY-9.jpg)
 [![Bond outside Zorin's office]({{site.url}}/assets/images/2026/08/AVTAK-8.jpg)]({{site.url}}/assets/images/2026/08/AVTAK-8.jpg)
 
-It looked as though the sun might soon vanish behind some clouds so we moved outside to make the most of the weather. I walked around the building to get a more accurate angle of the bridge that Bond runs across as he races back from sleuthing with Tibbett. After finding the main gate locked, he zips around and jumps up to a retracting drawbridge. It’s definitely Roger Moore doing by the way, how dare you think otherwise.
+It looked as though the sun might soon vanish behind some clouds so we moved outside to make the most of the weather. I walked around the building to get a more accurate angle of the bridge that Bond runs across as he races back from sleuthing with Tibbett. After finding the main gate locked, he zips around and jumps up to a retracting drawbridge. It’s definitely Roger Moore doing that by the way, how dare you think otherwise.
 
 [![The bridge into the château]({{site.url}}/assets/images/2026/08/CHANTILLY-10.jpg)]({{site.url}}/assets/images/2026/08/CHANTILLY-10.jpg)
 [![Bond races across the bridge]({{site.url}}/assets/images/2026/08/AVTAK-6.jpg)]({{site.url}}/assets/images/2026/08/AVTAK-6.jpg)
